@@ -1,0 +1,11 @@
++++
+date = 2016-10-28T11:46:35-05:00
+draft = false
+event = "Baylor Symposium on Faith and Culture"
+location = "Waco, TX"
+event_url = "http://www.baylor.edu/ifl/index.php?id=934922"
+title = "Cultivating Virtue Against a Safe Christian Education"
+url_pdf = "pdf/unsafe-education.pdf"
+abstract = "It seems that many of the trigger warnings used today in higher education, or at least Christian higher education, are not used to protect those who have had disturbing experiences in the past. Instead, they are used to protect innocent minds from having particular kinds of experiences at all, like hearing vulgar speech or seeing a nude body. Such trigger warnings are concessions to those who want education to be safe, and students to be protected from the vulgar, profane, and offensive. The world, though, is often vulgar, profane, and offensive, and to portray it otherwise is a lie. It is impossible for students to receive a Christian education and never encounter the world as it, for a Christian education in which students never encounter accounts of violence, drunkenness, and rape would be a Christian education in which students never read Genesis — that is, it would not be a Christian education at all. There are some events to which the only appropriate emotional responses are shock and horror. To portray these events in ways that do not elicit shock and horror is to do so in a way that ensures that students fail to have the appropriate moral responses. So, in an effort to avoid emotional harm to students, we have caused moral harm instead. Our goal in Christian education should not be to sanitize the world, but to encounter it as it is in the context of a community of love and grace. As God's creation, the world is filled with examples of beauty and grace, but in its present fallen state, it is also filled with examples of cruelty and horror. To portray only the horror is to leave students in cynicism and despair; to portray only the beauty is to leave students in gullible idealism and naiveté. Neither genuinely prepares students to deliver the gospel of Christ to a beautiful, yet broken, world. "
++++
+
