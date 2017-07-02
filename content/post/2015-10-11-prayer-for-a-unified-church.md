@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-10-11T14:05:16Z
+date: '2015-10-11T14:05:16Z'
 tags:
 - prayer
 - religion
 title: Prayer for a Unified Church
-url: /2015/10/11/prayer-for-a-unified-church/
----
+url: "/2015/10/11/prayer-for-a-unified-church/"
 
+---
 Holy God,
 
 Forgive us for those times  

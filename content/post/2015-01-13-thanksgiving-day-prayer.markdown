@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T12:51:35Z
-tags: [prayer]
+date: '2015-01-13T12:51:35Z'
+tags:
+- prayer
 title: Thanksgiving Day Prayer
-url: /2015/01/13/thanksgiving-day-prayer/
----
+url: "/2015/01/13/thanksgiving-day-prayer/"
 
+---
 Gracious God,
 
 In the events of this year,  

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-04-03T07:20:55Z
+date: '2017-04-03T07:20:55Z'
 tags:
 - prayer
 - religion
 title: The Betrayer
-url: /2017/04/03/the-betrayer/
----
+url: "/2017/04/03/the-betrayer/"
 
+---
 With a kiss,  
 Judas gave his Lord  
 one last chance to be  

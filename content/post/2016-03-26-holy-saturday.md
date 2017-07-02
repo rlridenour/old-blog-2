@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-26T21:16:52Z
+date: '2016-03-26T21:16:52Z'
 tags:
 - prayer
 - religion
 title: Holy Saturday
-url: /2016/03/26/holy-saturday/
----
+url: "/2016/03/26/holy-saturday/"
 
+---
 Gracious Father,
 
 Holy Saturday,  

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-02-11T15:03:30Z
+date: '2015-02-11T15:03:30Z'
 tags:
 - prayer
 - religion
 title: Prayer for a Life that Affirms
-url: /2015/02/11/prayer-for-a-life-that-affirms/
----
+url: "/2015/02/11/prayer-for-a-life-that-affirms/"
 
+---
 Casie Trotter sent me a link to a wonderful passage from Nietzsche's 1882 book, *The Gay Science*. This is aphorism 276, his resolution for that year:
 
 >I want to learn more and more how to see what is necessary in things as what is beautiful in them — thus I will be one of those who make things beautiful... I do not want to wage war against ugliness. I do not want to accusel I do not even want to accuse the accusers... And all in all and on the whole: some day I want only to be a Yes-sayer!

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-28T19:58:19Z
+date: '2015-07-28T19:58:19Z'
 tags:
 - prayer
 - religion
 title: A Glimpse of Beauty
-url: /2015/07/28/a-glimpse-of-beauty/
----
+url: "/2015/07/28/a-glimpse-of-beauty/"
 
+---
 God of Grace,
 
 Everywhere we turn  

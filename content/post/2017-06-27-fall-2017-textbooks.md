@@ -1,14 +1,14 @@
 ---
 comments: true
-date: 2017-06-27T11:24:00Z
+date: '2017-06-27T11:24:00Z'
 tags:
 - teaching
 - books
 title: Fall 2017 Textbooks
-url: /2017/06/27/fall-2017-textbooks/
+url: "/2017/06/27/fall-2017-textbooks/"
 markup: mmark
----
 
+---
 Here are the textbooks for my Fall 2017 courses:
 
 ## Introduction to Philosophy ##

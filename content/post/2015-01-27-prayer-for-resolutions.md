@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-27T20:56:24Z
-tags: [prayer]
+date: '2015-01-27T20:56:24Z'
+tags:
+- prayer
 title: Prayer for Resolutions
-url: /2015/01/27/prayer-for-resolutions/
----
+url: "/2015/01/27/prayer-for-resolutions/"
 
+---
 Gracious God,
 
 I resolve  

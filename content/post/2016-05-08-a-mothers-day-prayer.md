@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-05-08T17:11:28Z
+date: '2016-05-08T17:11:28Z'
 tags:
 - prayer
 - religion
 title: A Mother's Day Prayer
-url: /2016/05/08/a-mothers-day-prayer/
----
+url: "/2016/05/08/a-mothers-day-prayer/"
 
+---
 Gracious God,
 
 Thank you for the precious people   

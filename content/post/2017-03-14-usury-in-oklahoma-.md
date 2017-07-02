@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-03-14T11:38:19Z
+date: '2017-03-14T11:38:19Z'
 tags:
 - religion
 - politics
 title: Usury in Oklahoma
-url: /2017/03/14/usury-in-oklahoma-/
----
+url: "/2017/03/14/usury-in-oklahoma-/"
 
+---
 Yesterday, the House of Representatives of the State of Oklahoma passed [HB 1913](http://www.oklegislature.gov/BillInfo.aspx?Bill=Hb1913&Session=1700), a bill giving lenders the ability to charge an Annual Percentage Rate of 205.92% on a $1,500 loan.[^1] 
 
 This bill is inconsistent with historical Christian values and should be opposed by conservatives and progressives alike. The practice of taking interest on loans is expressly forbidden in several passages of Scripture:

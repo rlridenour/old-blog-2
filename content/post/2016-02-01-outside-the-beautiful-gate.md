@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-02-01T08:04:23Z
+date: '2016-02-01T08:04:23Z'
 tags:
 - prayer
 - religion
 title: Outside the Beautiful Gate
-url: /2016/02/01/outside-the-beautiful-gate/
----
+url: "/2016/02/01/outside-the-beautiful-gate/"
 
+---
 God of compassion,
 
 Peter and John met a man  

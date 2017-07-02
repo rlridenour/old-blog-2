@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-12-13T17:15:27Z
+date: '2016-12-13T17:15:27Z'
 tags:
 - prayer
 - religion
 title: The Offensive Jesus
-url: /2016/12/13/the-offensive-jesus/
----
+url: "/2016/12/13/the-offensive-jesus/"
 
+---
 The Gospel text for the third Sunday of Advent in year A is Matthew 11:2-11, which, on the surface, seems like an odd choice for the Christmas season, especially for a day known as the "Sunday of joy." It opens with what is apparently some doubt on the part of John the Baptist: "When John heard in prison what the Messiah was doing, he sent word by his disciples and said to him, 'Are you the one who is to come, or are we to wait for another?'"
 
 The third chapter of Matthew records John speaking of the wrath to come and the unquenchable fire that will be used to burn the chaff. It appears that the messiah that John got did not look much like the messiah that John expected. 

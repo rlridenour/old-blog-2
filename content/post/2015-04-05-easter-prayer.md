@@ -1,12 +1,12 @@
 ---
-date: 2015-04-05T14:00:29Z
+date: '2015-04-05T14:00:29Z'
 tags:
 - prayer
 - religion
 title: Easter Prayer
-url: /2015/04/05/easter-prayer/
----
+url: "/2015/04/05/easter-prayer/"
 
+---
 Prayer for a rainy Easter Day:
 
 The refreshing rain

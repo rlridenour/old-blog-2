@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-08-19T14:22:52Z
+date: '2016-08-19T14:22:52Z'
 tags:
 - prayer
 - religion
 title: Let Me Be Known
-url: /2016/08/19/let-me-be-known/
----
+url: "/2016/08/19/let-me-be-known/"
 
+---
 Lord,
 
 Let me be known,

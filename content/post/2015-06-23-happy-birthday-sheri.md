@@ -1,13 +1,12 @@
 ---
 comments: true
-date: 2015-06-23T13:25:50Z
-published: true
+date: '2015-06-23T13:25:50Z'
 tags:
 - family
 title: Happy Birthday, Sheri!
-url: /2015/06/23/happy-birthday-sheri/
----
+url: "/2015/06/23/happy-birthday-sheri/"
 
+---
 As the moon revolves around the earth,  
 and the earth around the sun,  
 so my life revolves around you,  

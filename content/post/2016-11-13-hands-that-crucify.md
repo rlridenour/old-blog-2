@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-11-13T19:28:05Z
+date: '2016-11-13T19:28:05Z'
 tags:
 - prayer
 - religion
 title: Hands that Crucify
-url: /2016/11/13/hands-that-crucify/
----
+url: "/2016/11/13/hands-that-crucify/"
 
+---
 Lord of all,
 
 What are these hands  

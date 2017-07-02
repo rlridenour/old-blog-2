@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-12-20T20:06:40Z
+date: '2016-12-20T20:06:40Z'
 tags:
 - prayer
 - religion
 title: Prayer for Avent 4
-url: /2016/12/20/prayer-for-avent-4/
----
+url: "/2016/12/20/prayer-for-avent-4/"
 
+---
 Father of Light,
 
 The creator of the universe  

@@ -1,14 +1,14 @@
 ---
 comments: true
-date: 2016-09-26T08:01:43Z
+date: '2016-09-26T08:01:43Z'
 tags:
 - teaching
 - ancient
 - philosophy
 title: Ancient Philosophy Study Guide
-url: /2016/09/26/ancient-philosophy-study-guide/
----
+url: "/2016/09/26/ancient-philosophy-study-guide/"
 
+---
 1. What is the reason for separating Plato's dialogues into Socratic (early) and Platonic (middle) dialogues?
 1. Why is Socrates’ method primarily negative? Is there anything that Socrates does (at least implicitly) claim to know?
 1. Explain why the Meno is considered a transitional dialogue.

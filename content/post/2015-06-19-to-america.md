@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-06-19T09:20:07Z
+date: '2015-06-19T09:20:07Z'
 tags:
 - poetry
 title: To America
-url: /2015/06/19/to-america/
----
+url: "/2015/06/19/to-america/"
 
+---
 A poem by James Weldon Johnson (June 17, 1871 – June 26, 1938), American author, educator, lawyer, diplomat, and civil rights activist.
 
 Nine people were shot in a historic church in Charleston, South Carolina, this week, and the evidence points to it being a racist hate-crime. So, 144 years and 1 day after his birth, we are reminded that some things, unfortunately have not changed.

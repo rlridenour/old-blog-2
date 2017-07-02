@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2008-02-17T17:23:29Z
+date: '2008-02-17T17:23:29Z'
 tags:
 - army
 - iraq
 title: Living in Stonehenge
-url: /2008/02/17/living-in-stonehenge/
----
+url: "/2008/02/17/living-in-stonehenge/"
 
+---
 ![Concrete Ghetto](/assets/img_0138.jpg)
 
 <p>I've been back for a week now, and there have been some changes. One change is that my trailer is surrounded by blast walls that are 12 feet high. These concrete monoliths are all over the country. I can imagine some future archaeologist wondering about the purpose of these great stone artifacts, and debating about whether we would have, given time, reached the sophisticated level of the Easter Island culture.</p>

@@ -1,14 +1,14 @@
 ---
 comments: true
-date: 2015-01-20T00:00:00Z
+date: '2015-01-20T00:00:00Z'
 tags:
 - science
 - religion
 - philosophy
 title: Penn Jillette on Science and Religion
-url: /2015/01/20/penn-jillette-on-science-and-religion/
----
+url: "/2015/01/20/penn-jillette-on-science-and-religion/"
 
+---
 [John Gruber](www.daringfireball.net) recently posted this interesting quote from Penn Jillette, of Penn and Teller fame:
 
 

@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2017-01-09T13:18:37Z
+date: '2017-01-09T13:18:37Z'
 tags:
 - critical-thinking
 title: Disagreement and Being Wrong
-url: /2017/01/09/disagreement-and-being-wrong/
----
+url: "/2017/01/09/disagreement-and-being-wrong/"
 
+---
 This internet meme has been making the rounds lately:
 
 ![Disagreement](/images/2017/disagreement.jpg)

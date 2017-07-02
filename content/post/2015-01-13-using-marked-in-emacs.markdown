@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T17:08:20Z
-tags: [emacs]
+date: '2015-01-13T17:08:20Z'
+tags:
+- emacs
 title: Using Marked in Emacs
-url: /2015/01/13/using-marked-in-emacs/
----
+url: "/2015/01/13/using-marked-in-emacs/"
 
+---
 [Brett Terpstra][terpstra] makes some great tools, and gives away many of them for nothing. So, I'm very happy to return a small amount by paying for [Marked][marked], his great tool for previewing Markdown files. The preview auto-updates with each save, and the new version validates external links and provides a wealth of useful statistics about the document.
 
 I have been calling Marked from Emacs using this function that I found in various places on the internet:

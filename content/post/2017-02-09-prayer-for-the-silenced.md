@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-02-09T16:08:12Z
+date: '2017-02-09T16:08:12Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Silenced
-url: /2017/02/09/prayer-for-the-silenced/
----
+url: "/2017/02/09/prayer-for-the-silenced/"
 
+---
 Am I so wise  
 that I have nothing   
 left to learn,  

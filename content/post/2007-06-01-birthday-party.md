@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-06-01T03:06:43Z
+date: '2007-06-01T03:06:43Z'
 tags:
 - army
 - iraq
 title: Birthday Party
-url: /2007/06/01/birthday-party/
----
+url: "/2007/06/01/birthday-party/"
 
+---
 ![Small Tent](/assets/img_0033-tents_small.jpg)
 
 Yesterday was my birthday. We convoyed from our beautiful home in the woods (see picture) to the main part of the base. The soldiers went to practice firing their weapons, and I walked down to the main chapel to pick up some communion supplies. When we got back, I stepped into the tent for a moment, and stepped out into a crowd. Somehow, the soldiers had managed to get a decorated cake out into the field. The box was slightly crushed after the HUMVEE ride, so the decoration said</p>

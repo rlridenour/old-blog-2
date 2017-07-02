@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-07T15:55:10Z
+date: '2015-07-07T15:55:10Z'
 tags:
 - prayer
 - religion
 title: Religious Liberty Sunday, 2015
-url: /2015/07/07/religious-liberty-sunday-2015/
----
+url: "/2015/07/07/religious-liberty-sunday-2015/"
 
+---
 As I listened to Mitch Randall's sermon last Sunday at NorthHaven Church in Norman, Oklahoma, I couldn't help but reflect on Paul's words in Philippians 2. I hope the prayer for the week reflects that thought.
 
 Father,

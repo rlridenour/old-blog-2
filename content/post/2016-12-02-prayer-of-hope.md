@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-12-02T10:05:08Z
+date: '2016-12-02T10:05:08Z'
 tags:
 - prayer
 - religion
 title: Prayer of Hope
-url: /2016/12/02/prayer-of-hope/
----
+url: "/2016/12/02/prayer-of-hope/"
 
+---
 God of Hope,
 
 Advent begins with  

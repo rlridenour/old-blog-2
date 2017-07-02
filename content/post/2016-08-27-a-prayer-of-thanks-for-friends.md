@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-08-27T13:50:58Z
+date: '2016-08-27T13:50:58Z'
 tags:
 - prayer
 - religion
 title: A Prayer of Thanks for Friends
-url: /2016/08/27/a-prayer-of-thanks-for-friends/
----
+url: "/2016/08/27/a-prayer-of-thanks-for-friends/"
 
+---
 Thank you for the gift of friends,  
 those who are near,  
 and those who are far;  

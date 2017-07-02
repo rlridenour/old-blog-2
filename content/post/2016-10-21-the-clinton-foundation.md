@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-10-21T06:42:02Z
+date: '2016-10-21T06:42:02Z'
 tags:
 - politics
 - critical-thinking
 title: Confirmation Bias and the Clinton Foundation
-url: /2016/10/21/the-clinton-foundation/
----
+url: "/2016/10/21/the-clinton-foundation/"
 
+---
 Yesterday, I showed that claiming that only 5.7% of Clinton Foundation donations goes to charity is essentially false. Although that is indeed the percentage that goes to other charitable organizations, it ignores the fact that the Clinton Foundation is itself a public charity, unlike the Trump Foundation, which is a private foundation.
 
 In response, a friend said that, although my claim was technically true, the majority of Clinton Foundation money goes back to the Clintons through the its two largest program expenditures, the Clinton Global Initiative (CGI) and the Clinton Presidential Library. 

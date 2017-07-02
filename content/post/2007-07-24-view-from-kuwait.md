@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-07-24T12:54:48Z
+date: '2007-07-24T12:54:48Z'
 tags:
 - army
 - iraq
 title: View from Kuwait
-url: /2007/07/24/view-from-kuwait/
----
+url: "/2007/07/24/view-from-kuwait/"
 
+---
 <p>Here is a picture of the scenery in Kuwait...</p>
 
 ![Kuwait Landscape](/assets/img_0035.jpg )

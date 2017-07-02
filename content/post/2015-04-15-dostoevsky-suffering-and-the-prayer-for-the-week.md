@@ -1,14 +1,14 @@
 ---
 comments: true
-date: 2015-04-15T10:45:05Z
+date: '2015-04-15T10:45:05Z'
 tags:
 - prayer
 - religion
 - philosophy
 title: Dostoevsky, Suffering, and the Prayer for the Week
-url: /2015/04/15/dostoevsky-suffering-and-the-prayer-for-the-week/
----
+url: "/2015/04/15/dostoevsky-suffering-and-the-prayer-for-the-week/"
 
+---
 This past weekend  was a weekend of funerals — two very different people, both with lives that had been cut tragically short. Then, on Tuesday, I learned of two more tragedies involving families in the Army units that I serve. Coincidentally, all of this happens as one of my classes is studying one of the central works on the problem of suffering, the chapter titled in "Rebellion" in Dostoevsky's masterpiece, *The Brothers Karamazov*.[^1] In the novel, Ivan argued that moral decency and the love of humanity demand that we should refuse to live in what he thought to be a clearly unjust world. The only decent thing to do would be to, in his words, "return one's ticket."
 
 Ivan makes two related mistakes here. First, he believes that he can judge the world from an objective position. This, though, ignores the fact that we are embedded and entangled, part of the world that we presume to judge. The second mistake is assuming that the world that we now experience is morally static, that is, assuming that the suffering of the innocent has always, and will always, occur, and if God created this world, he created it to be an unjust world.

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-12-10T06:53:20Z
+date: '2015-12-10T06:53:20Z'
 tags:
 - prayer
 - religion
 title: The Idol of Security
-url: /2015/12/10/the-idol-of-security/
----
+url: "/2015/12/10/the-idol-of-security/"
 
+---
 God of Peace,
 
 There was a time when  

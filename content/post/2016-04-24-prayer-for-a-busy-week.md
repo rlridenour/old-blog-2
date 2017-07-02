@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-04-24T07:35:20Z
+date: '2016-04-24T07:35:20Z'
 tags:
 - prayer
 - religion
 title: Prayer for a Busy Week
-url: /2016/04/24/prayer-for-a-busy-week/
----
+url: "/2016/04/24/prayer-for-a-busy-week/"
 
+---
 Father,
 
 We live in a world  

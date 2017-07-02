@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-11-09T05:52:12Z
+date: '2016-11-09T05:52:12Z'
 tags:
 - politics
 title: Interesting Times
-url: /2016/11/09/interesting-times/
----
+url: "/2016/11/09/interesting-times/"
 
+---
 There are three statements that have become known as the "Chinese" curses, although I should point out that there is no record of any Chinese equivalents. They are three things to wish upon one's enemies. Three things that, on the surface, seem like things that a person should surely want; but appearances, as we all know, are often deceiving.
 
 The first, and the mildest:

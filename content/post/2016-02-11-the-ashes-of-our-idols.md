@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-02-11T10:11:00Z
+date: '2016-02-11T10:11:00Z'
 tags:
 - religion
 title: The Ashes of Our Idols
-url: /2016/02/11/the-ashes-of-our-idols/
----
+url: "/2016/02/11/the-ashes-of-our-idols/"
 
+---
 *A sermon for Ash Wednesday delivered at NorthHaven Church, Norman, OK on February 10, 2016*.
 
 >I will sprinkle clean water upon you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. A new heart I will give you, and a new spirit I will put within you; and I will remove from your body the heart of stone and give you a heart of flesh. (Ezekiel 36:25-26)

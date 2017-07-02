@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-08-18T14:05:51Z
+date: '2015-08-18T14:05:51Z'
 tags:
 - prayer
 - religion
 title: The Fabric of Our Lives
-url: /2015/08/18/the-fabric-of-our-lives/
----
+url: "/2015/08/18/the-fabric-of-our-lives/"
 
+---
 Loving Creator,
 
 Each of us is a  

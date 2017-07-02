@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:25:43Z
-tags: [prayer]
+date: '2015-01-13T13:25:43Z'
+tags:
+- prayer
 title: The Fourteenth Sunday After Pentecost
-url: /2015/01/13/the-fourteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-fourteenth-sunday-after-pentecost/"
 
+---
 I love it when a minister points out something that I had never noticed in the text. Mitch Randall certainly did that this past Sunday. So, this prayer recalls Daniel's action to save his competitors in Babylon as recounted in Daniel 2.
 
 If there is to be a winner,

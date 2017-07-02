@@ -1,12 +1,12 @@
 ---
-date: 2015-02-03T15:26:07Z
+date: '2015-02-03T15:26:07Z'
 tags:
 - prayer
 - religion
 title: Prayer for Epiphany 4
-url: /2015/02/03/prayer-for-epiphany-4/
----
+url: "/2015/02/03/prayer-for-epiphany-4/"
 
+---
 <!-- Sunday's sermon focused on the story of the Gerasene demoniac in Luke 8. In the spirit of the sermon's emphasis on reaching out past our differences, I added a link to one of my favorite renditions of the Isaiah 11 passage, Will Bullas' "Peaceable Kingdom with Two Olives." -->
 
 Jesus,

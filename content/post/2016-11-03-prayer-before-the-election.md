@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-11-03T11:43:31Z
+date: '2016-11-03T11:43:31Z'
 tags:
 - prayer
 - religion
 title: Prayer Before the Election
-url: /2016/11/03/prayer-before-the-election/
----
+url: "/2016/11/03/prayer-before-the-election/"
 
+---
 A prayer for the days preceding the election:
 
 God of comfort,

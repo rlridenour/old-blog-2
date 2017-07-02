@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2009-09-24T20:37:54Z
+date: '2009-09-24T20:37:54Z'
 tags:
 - aesthetics
 title: More Figurines
-url: /2009/09/24/another-package-arrived-in-the-mail-today-wrapped/
----
+url: "/2009/09/24/another-package-arrived-in-the-mail-today-wrapped/"
 
+---
 <p>Another package arrived in the mail today, wrapped in tissue paper with my address scrawled in permanent marker. Is it art? Let's consider the theories that are in contention.</p>
 <p>Art as mimesis - No human being has eyes like that, so it's a bad imitation.</p>
 <p>Art as expression - Surely the artist couldn't have been experiencing the same emotion that I'm experiencing as I look on these. I wouldn't wish that on any human being.</p>

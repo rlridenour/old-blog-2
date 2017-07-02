@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-08-26T16:26:38Z
+date: '2015-08-26T16:26:38Z'
 tags:
 - prayer
 - religion
 title: Seeking Humility
-url: /2015/08/26/seeking-humility/
----
+url: "/2015/08/26/seeking-humility/"
 
+---
 The air is filled  
 with the voices  
 of those who want only  

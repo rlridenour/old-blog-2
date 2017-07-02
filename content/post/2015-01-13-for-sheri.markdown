@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:25:08Z
-tags: 
+date: '2015-01-13T14:25:08Z'
+tags:
 - poetry
 title: For Sheri
-url: /2015/01/13/for-sheri/
----
+url: "/2015/01/13/for-sheri/"
 
+---
 For Sheri on her birthday:
 
 "Did you get  

@@ -1,14 +1,13 @@
 ---
 comments: true
-date: 2016-10-01T10:25:03Z
-published: true
+date: '2016-10-01T10:25:03Z'
 tags:
 - critical-thinking
 - politics
 title: Race, Police Shooting, and Probability
-url: /2016/10/01/black-lives-matter-and-conditional-probabilities/
----
+url: "/2016/10/01/black-lives-matter-and-conditional-probabilities/"
 
+---
 I just read a Facebook comment by someone who was apparently downplaying the Black Lives Matter movement by pointing out that the police shoot more white Americans than black Americans. 
 
 True, but it's a classic error in statistical reasoning. The vast majority of drivers involved in accidents are sober, but it doesn't follow that one is more likely to have an accident if one is sober than if drunk. That is, the probability that a person was drunk given that he was in an accident is very low, but the probability that someone will be in an accident given that he is drunk is very high.

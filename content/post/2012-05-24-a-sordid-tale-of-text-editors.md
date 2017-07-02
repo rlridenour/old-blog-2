@@ -1,9 +1,9 @@
 ---
-date: 2012-05-24T12:07:37Z
+date: '2012-05-24T12:07:37Z'
 title: A Sordid Tale of Text Editors
-url: /2012/05/24/a-sordid-tale-of-text-editors/
----
+url: "/2012/05/24/a-sordid-tale-of-text-editors/"
 
+---
 <p>For years now, It seems like I have been searching for the perfect text editor. Evidently, there are those who believe that there is one single perfect text editor for everyone. If you need evidence, just search the Internet for &#8220;Vim vs. Emacs.&#8221; My experience, though, leads to me believe that, when it comes to text editors, like many other tools, perfection is relative to the individual. What tool is needed depends on how the individual writer works and thinks.</p>
 <p>I used word processors (beginning with WordPerfect 5.1, which I still think is the best, it&#8217;s been all downhill for word processors ever since) until I started writing LaTeX documents. I began with TeXShop, which comes bundled with <a href="http://www.tug.org/mactex/2011/">MacTeX</a>. TeXShop is an excellent resource for writing LaTeX. It&#8217;s free, powerful, and I recommend it with no reservations at all. </p>
 <p>I don&#8217;t know why I began experimenting with other editors. I surely didn&#8217;t need any other editor to edit LaTeX. It may have been when I started writing in <a href="http://fletcherpenney.net/multimarkdown/">MultiMarkdown</a> (MMD). Markdown, created by John Gruber, is a simple way to produce very readable documents and convert them to HTML. Markdown has grown in popularity recently, resulting in an abundance of simple Markdown editors for both OS X and iOS. I can&#8217;t remember what year I stumbled on it, but at some point I discovered Fletcher Penney&#8217;s MultiMarkdown. MultiMarkdown adds some features to Markdown, including tables and footnotes, among other things. The most important feature for me, though, was the ability to convert the document to both HTML and to LaTeX. So, I started writing in MultiMarkdown, which then gave me the ability to export the same document in several formats as needed. I could have used TeXShop to write MMD, but it wasn&#8217;t the best experience.</p>

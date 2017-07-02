@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T12:55:57Z
-tags: 
+date: '2015-01-13T12:55:57Z'
+tags:
 - prayer
 title: Christ the King Sunday
-url: /2015/01/13/christ-the-king-sunday/
----
+url: "/2015/01/13/christ-the-king-sunday/"
 
+---
 Mitch opened his sermon at NorthHaven on Christ the King Sunday recounting the scene at the end of The Return of the King in which Aragorn, the newly crowned king, bows down to the hobbits. That brought to mind their first meeting in The Fellowship of the Ring where Frodo is trying to decide if Aragorn should be trusted:
 
 >At last Frodo spoke with hesitation. "I believed that you were a friend before the letter came," he said, "or at least I wished to. You have frightened me several times tonight, but never in the way the servants of the Enemy would, or so I imagine. I think one of his spies would - well, seem fairer and feel fouler, if you understand."

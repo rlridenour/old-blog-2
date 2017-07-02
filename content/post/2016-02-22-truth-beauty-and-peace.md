@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-02-22T15:39:16Z
+date: '2016-02-22T15:39:16Z'
 tags:
 - prayer
 - religion
 title: Truth, Beauty, and Peace
-url: /2016/02/22/truth-beauty-and-peace/
----
+url: "/2016/02/22/truth-beauty-and-peace/"
 
+---
 Father,
 
 There are days  

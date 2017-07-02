@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-11-24T14:08:04Z
+date: '2016-11-24T14:08:04Z'
 tags:
 - prayer
 - religion
 title: Gratitude Over Despair
-url: /2016/11/24/gratitude-over-despair/
----
+url: "/2016/11/24/gratitude-over-despair/"
 
+---
 This prayer is from 2014, but somehow seems fitting again this year:
 
 Gracious God,

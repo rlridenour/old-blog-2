@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:08:20Z
-tags: [prayer]
+date: '2015-01-13T14:08:20Z'
+tags:
+- prayer
 title: the Fourth Sunday after Pentecost
-url: /2015/01/13/the-fourth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-fourth-sunday-after-pentecost/"
 
+---
 Holy God,
 
 For those times  

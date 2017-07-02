@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-18T17:10:29Z
+date: '2015-01-18T17:10:29Z'
 tags:
 - jekyll
 title: My New Jekyll Site
-url: /2015/01/18/my-new-jekyll-site/
----
+url: "/2015/01/18/my-new-jekyll-site/"
 
+---
 Jekyll was remarkably simple, much more than I expected. A competent person should be able to deploy a new Jekyll site in minutes. I, in usual fashion, took six hours. Here is a record of what I did, both what worked and what did not.
 
 ## The Steps, Both True and Errant ##

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-04-14T15:57:47Z
+date: '2017-04-14T15:57:47Z'
 tags:
 - prayer
 - religion
 title: Prayer for Good Friday
-url: /2017/04/14/prayer-for-good-friday/
----
+url: "/2017/04/14/prayer-for-good-friday/"
 
+---
 ![Carrying the Cross of Christ](/images/2017/cross-mosaic.jpg)
 
 (Mosaic: *Carrying the Cross of Christ* by Gabriel Loire)[^1]

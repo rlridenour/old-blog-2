@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-08-30T15:00:55Z
+date: '2015-08-30T15:00:55Z'
 tags:
 - prayer
 - religion
 title: The Water of Life
-url: /2015/08/30/the-water-of-life/
----
+url: "/2015/08/30/the-water-of-life/"
 
+---
 *"...but those who drink of the water that I will give them will never be thirsty."*
 
 Lord of life,  

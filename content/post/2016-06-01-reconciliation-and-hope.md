@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-06-01T07:02:21Z
+date: '2016-06-01T07:02:21Z'
 tags:
 - ethics
 title: Reconciliation and Hope
-url: /2016/06/01/reconciliation-and-hope/
----
+url: "/2016/06/01/reconciliation-and-hope/"
 
+---
 I wrote this eight years ago, after President Obama's election:
 
 >The year that I was born, 1963, was marked by these significant events:

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-04-08T19:23:46Z
+date: '2017-04-08T19:23:46Z'
 tags:
 - prayer
 - religion
 title: Prayer for Palm Sunday
-url: /2017/04/08/prayer-for-palm-sunday/
----
+url: "/2017/04/08/prayer-for-palm-sunday/"
 
+---
 Holy God,
 
 Examine my thoughts  

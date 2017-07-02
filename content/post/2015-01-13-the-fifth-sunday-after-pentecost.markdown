@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:07:11Z
-tags: [prayer]
+date: '2015-01-13T14:07:11Z'
+tags:
+- prayer
 title: The Fifth Sunday After Pentecost
-url: /2015/01/13/the-fifth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-fifth-sunday-after-pentecost/"
 
+---
 Another thought-provoking sermon at [NorthHaven](http://northhavenchurch.net) this week - this time, from Bryan Partridge. 
 
 Here is the prayer for the week:

@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2010-02-18T21:34:17Z
+date: '2010-02-18T21:34:17Z'
 tags:
 - religion
 title: The Luxury of Cheap Melancholy
-url: /2010/02/18/the-luxury-of-cheap-melancholy/
----
+url: "/2010/02/18/the-luxury-of-cheap-melancholy/"
 
+---
 <p>Every February, Oklahoma Baptist University celebrates Founders' Day with a special chapel service. This year's service was particularly special, commemorating the 100th anniversary of the school's founding. The service included a reenactment of W.P. Blake and G. Lee Phelps kneeling in prayer on the site in Shawnee, Oklahoma that was to become Oklahoma Baptist University. </p>
 <p>To be honest, I can now remember only a single sentence from either prayer, but it is a sentence that I don't think I will ever forget: <em>"Deliver us from the luxury of cheap melancholy."</em> </p>
 <p>These words may be more relevant now than they were at the time of the founding of OBU. We find ourselves struggling to recover from a recession, embroiled in two wars, worried about the future of the environment, and burdened by spiraling health care costs. Melancholy, or depression, seems to be an unavoidable response. As Phelps said, though, it is both cheap and luxurious; cheap because it costs us nothing, and luxurious because it prevents us from doing what is truly costly. Giving in to the luxury of cheap melancholy is an acceptance of the status quo, an admission that we will simply do nothing.</p>

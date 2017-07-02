@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:54:26Z
-tags: [prayer]
+date: '2015-01-13T16:54:26Z'
+tags:
+- prayer
 title: Maundy Thursday
-url: /2015/01/13/maundy-thursday/
----
+url: "/2015/01/13/maundy-thursday/"
 
+---
 The one who had already  
 shed all the privileges of God,  
 also shed his outer robe.  

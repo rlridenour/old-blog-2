@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-07-19T18:38:11Z
+date: '2016-07-19T18:38:11Z'
 tags:
 - prayer
 - religion
 title: Prayer After a Tragic Week
-url: /2016/07/19/prayer-after-a-tragic-week/
----
+url: "/2016/07/19/prayer-after-a-tragic-week/"
 
+---
 God of compassion,
 
 In these weeks of violence and tragedy,  

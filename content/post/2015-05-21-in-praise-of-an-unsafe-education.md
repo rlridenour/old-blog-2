@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-05-21T09:53:13Z
+date: '2015-05-21T09:53:13Z'
 tags:
 - education
 title: In Praise of an Unsafe Education
-url: /2015/05/21/in-praise-of-an-unsafe-education/
----
+url: "/2015/05/21/in-praise-of-an-unsafe-education/"
 
+---
 I was excited to see this excerpt from Neil Gaiman's new book recently in [USA Today][usatoday], explaining why he chose "Trigger Warning" as the title. It didn't strike me that the title could be controversial until I saw this [tweet](https://twitter.com/skinnygrlsfloat/status/561365292693999617 ) asking why he chose such a "thoughtless and insensitive title."
   It's no surprise that such accusations prompted a rather thoughtful and sensitive response from Gaiman, one of my favorite authors.
 

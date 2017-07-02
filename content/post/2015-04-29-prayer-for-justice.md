@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-04-29T15:47:59Z
+date: '2015-04-29T15:47:59Z'
 tags:
 - prayer
 - religion
 title: Prayer for Justice
-url: /2015/04/29/prayer-for-justice/
----
+url: "/2015/04/29/prayer-for-justice/"
 
+---
 A cry for justice swells up  
 from a people who have seen  
 so little of it.

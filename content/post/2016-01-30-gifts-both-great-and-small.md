@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-01-30T18:55:11Z
+date: '2016-01-30T18:55:11Z'
 tags:
 - prayer
 - religion
 title: Gifts Both Great and Small
-url: /2016/01/30/gifts-both-great-and-small/
----
+url: "/2016/01/30/gifts-both-great-and-small/"
 
+---
 A prayer prompted by praying with friends in Ghana who pray and give thanks for everything, from resting well through the night to waking up the next morning.
 
 Gracious God,

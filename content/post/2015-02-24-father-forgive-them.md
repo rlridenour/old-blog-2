@@ -1,11 +1,11 @@
 ---
-date: 2015-02-24T15:02:29Z
+date: '2015-02-24T15:02:29Z'
 tags:
 - religion
 title: The Cross Shattered Christ, Chapter 1
-url: /2015/02/24/father-forgive-them/
----
+url: "/2015/02/24/father-forgive-them/"
 
+---
 **Reflections on *Cross-Shattered Christ: Meditations on the Seven Last Words* by Stanley Hauerwas, Chapter 1.**
 
 

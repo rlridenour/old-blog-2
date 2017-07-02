@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:58:12Z
+date: '2015-01-13T13:58:12Z'
 tags:
 - army
 title: Links in Army Enterprise Email
-url: /2015/01/13/links-in-army-enterprise-email/
----
+url: "/2015/01/13/links-in-army-enterprise-email/"
 
+---
 This will probably be useful to only a few people, but maybe it will help someone who is frantically searching the internet for an answer.
 
 Roughly a year ago, the Army changed its email service to an Exchange Enterprise system. The old address, which I have had for years (decades?) forwards to the new address, which I never can seem to easily remember. It seems, though, that links in forwarded emails are stripped out for security purposes. This is not a problem if the url is visible in the message, like this:

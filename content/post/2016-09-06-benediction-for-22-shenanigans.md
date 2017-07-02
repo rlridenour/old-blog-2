@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-09-06T06:40:25Z
+date: '2016-09-06T06:40:25Z'
 tags:
 - prayer
 - religion
 title: Benediction for 22 Shenanigans
-url: /2016/09/06/benediction-for-22-shenanigans/
----
+url: "/2016/09/06/benediction-for-22-shenanigans/"
 
+---
 22 Shenanigans is an organization dedicated to reducing the number of suicides among veterans. Here is the benediction from the sermon I preached at an event they held on Labor Day weekend.
 
 

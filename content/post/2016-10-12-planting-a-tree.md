@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-10-12T16:49:03Z
+date: '2016-10-12T16:49:03Z'
 tags:
 - prayer
 - religion
 title: Planting a Tree
-url: /2016/10/12/planting-a-tree/
----
+url: "/2016/10/12/planting-a-tree/"
 
+---
 God of Hope,
 
 I plant this tree in faith,  

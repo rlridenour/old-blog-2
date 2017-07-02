@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2011-03-17T19:42:06Z
+date: '2011-03-17T19:42:06Z'
 tags:
 - teaching
 title: Sleep Deprivation
-url: /2011/03/17/sleep-deprivation/
----
+url: "/2011/03/17/sleep-deprivation/"
 
+---
 <p>This is for all my students who send me emails at 3:00 in the morning.</p>
 <p>From Tony Schwarz's post titled "Sleep is More Important than Food" at the <a href="http://bit.ly/hC4REa">Harvard Business Review</a>:</p>
 <blockquote>

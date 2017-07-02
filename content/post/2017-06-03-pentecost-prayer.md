@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-06-03T15:51:35Z
+date: '2017-06-03T15:51:35Z'
 tags:
 - prayer
 - religion
 title: Pentecost Prayer
-url: /2017/06/03/pentecost-prayer/
----
+url: "/2017/06/03/pentecost-prayer/"
 
+---
 A prayer for tomorrow's sermon at Spring Creek Baptist Church:
 
 God of life,

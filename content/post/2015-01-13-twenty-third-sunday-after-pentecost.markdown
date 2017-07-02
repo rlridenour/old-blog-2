@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:01:48Z
-tags: [null]
+date: '2015-01-13T13:01:48Z'
+tags:
+- 
 title: Twenty-Third Sunday After Pentecost
-url: /2015/01/13/twenty-third-sunday-after-pentecost/
----
+url: "/2015/01/13/twenty-third-sunday-after-pentecost/"
 
+---
 Actors of old wore masks  
 to hide their true selves,  
 with smiles and frowns  

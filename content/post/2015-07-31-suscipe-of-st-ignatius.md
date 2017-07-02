@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-31T14:27:08Z
+date: '2015-07-31T14:27:08Z'
 tags:
 - prayer
 - religion
 title: Suscipe of St. Ignatius
-url: /2015/07/31/suscipe-of-st-ignatius/
----
+url: "/2015/07/31/suscipe-of-st-ignatius/"
 
+---
 Today is the feast day of St. Ignatius of Loyola. Here is one of his prayers:
 
 *Suscipe (Receive)*

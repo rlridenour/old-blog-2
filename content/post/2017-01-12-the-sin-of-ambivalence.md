@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-01-12T16:43:24Z
+date: '2017-01-12T16:43:24Z'
 tags:
 - prayer
 - religion
 title: The Sin of Ambivalence
-url: /2017/01/12/the-sin-of-ambivalence/
----
+url: "/2017/01/12/the-sin-of-ambivalence/"
 
+---
 Holy God,
 
 The greatest tragedy  

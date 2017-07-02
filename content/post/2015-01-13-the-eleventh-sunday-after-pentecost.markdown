@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:35:42Z
-tags: [prayer]
+date: '2015-01-13T13:35:42Z'
+tags:
+- prayer
 title: The Eleventh Sunday After Pentecost
-url: /2015/01/13/the-eleventh-sunday-after-pentecost/
----
+url: "/2015/01/13/the-eleventh-sunday-after-pentecost/"
 
+---
 I hear reports of violence and injustice,  
 and give thanks that I do not live in those places.
 

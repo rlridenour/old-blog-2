@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:52:55Z
-tags: 
+date: '2015-01-13T16:52:55Z'
+tags:
 - prayer
 title: Good Friday
-url: /2015/01/13/good-friday/
----
+url: "/2015/01/13/good-friday/"
 
+---
 Even though I fear the answer,  
 I must still ask the question  
 that was posed   

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-01-15T16:13:05Z
+date: '2017-01-15T16:13:05Z'
 tags:
 - prayer
 - religion
 title: Prayer in Times of Change
-url: /2017/01/15/prayer-in-times-of-change/
----
+url: "/2017/01/15/prayer-in-times-of-change/"
 
+---
 Gracious God,
 
 We live in a time of change,  

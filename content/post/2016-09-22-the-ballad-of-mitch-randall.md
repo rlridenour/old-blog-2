@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-09-22T10:18:46Z
+date: '2016-09-22T10:18:46Z'
 tags:
 - music
 title: The Ballad of Mitch Randall
-url: /2016/09/22/the-ballad-of-mitch-randall/
----
+url: "/2016/09/22/the-ballad-of-mitch-randall/"
 
+---
 (Sung to the tune of "John Henry")
 
 When Mitch Randall was a little baby,  

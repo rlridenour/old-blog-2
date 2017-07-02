@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T12:59:43Z
-tags: [books]
+date: '2015-01-13T12:59:43Z'
+tags:
+- books
 title: Textbooks for Spring 2015
-url: /2015/01/13/textooks-for-spring-2015/
----
+url: "/2015/01/13/textooks-for-spring-2015/"
 
+---
 Here are the books for my courses, spring semester, 2015:
 
 **Philosophy 2143, History of Modern Philosophy**

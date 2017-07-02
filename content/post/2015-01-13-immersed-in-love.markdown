@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:27:57Z
-tags: [prayer]
+date: '2015-01-13T16:27:57Z'
+tags:
+- prayer
 title: Immersed in Love
-url: /2015/01/13/immersed-in-love/
----
+url: "/2015/01/13/immersed-in-love/"
 
+---
 Mitch Randall’s sermon Sunday was beautiful, the thought of being immersed in God’s love brought to mind both the final scene of Bergman’s *Through A Glass Darkly* and the end of the "Cana of Galilee" chapter in *The Brothers Karamazov*.
 
 Father,

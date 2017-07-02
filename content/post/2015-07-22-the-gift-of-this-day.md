@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-22T08:11:55Z
+date: '2015-07-22T08:11:55Z'
 tags:
 - prayer
 - religion
 title: The Gift of This Day
-url: /2015/07/22/the-gift-of-this-day/
----
+url: "/2015/07/22/the-gift-of-this-day/"
 
+---
 Gracious God,
 
 Despite my presumptuous plans,  

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-09T06:53:28Z
+date: '2015-11-09T06:53:28Z'
 tags:
 - prayer
 - religion
 title: To Dance Without Care
-url: /2015/11/09/to-dance-without-care/
----
+url: "/2015/11/09/to-dance-without-care/"
 
+---
 Lord Jesus,
 
 You invite us  

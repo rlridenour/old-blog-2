@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-07-12T15:07:12Z
+date: '2016-07-12T15:07:12Z'
 tags:
 - jekyll
 title: Automating Jekyll with Fish
-url: /2016/07/12/automating-jekyll-with-fish/
----
+url: "/2016/07/12/automating-jekyll-with-fish/"
 
+---
 [Last month](http://randyridenour.net/2016/06/23/emacs-on-the-ipad/), I wrote about my experiment with iOS and a remote server from [Digital Ocean](http://wwww.digitalocean.com). It's working very well, but Emacs can feel a bit sluggish at times, served up remotely over a crowded public wi-fi network. Vim is speedy, and since I use Evil on Emacs, it's not too painful to switch occasionally. Any pain comes from the loss of the automation with all of those Emacs functions I've written and collected over the years.
 
 I thought about writing some scripts in Elisp, but settled on functions in the [Fish](http://fishshell.com/) Shell. The first function creates an appropriately named Markdown file with YAML front-matter. The important parts come from [Marc Ransome](https://gist.github.com/marcransome/6096005):

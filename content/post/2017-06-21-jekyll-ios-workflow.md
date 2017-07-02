@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-06-21T11:05:34Z
+date: '2017-06-21T11:05:34Z'
 tags:
 - iOS
 - jekyll
 title: Publishing to Jekyll with Editorial on iOS
-url: /2017/06/21/jekyll-ios-workflow/
----
+url: "/2017/06/21/jekyll-ios-workflow/"
 
+---
 As a blog platform, Jekyll has a number of positive features: 
 
 1. The speed and security of a static site,

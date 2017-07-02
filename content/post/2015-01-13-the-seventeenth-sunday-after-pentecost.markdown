@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:19:57Z
-tags: [prayer]
+date: '2015-01-13T13:19:57Z'
+tags:
+- prayer
 title: The Seventeenth Sunday After Pentecost
-url: /2015/01/13/the-seventeenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-seventeenth-sunday-after-pentecost/"
 
+---
 We missed worship at NorthHaven this past Sunday, although I hear that there was an exceptional sermon by Bryan Partridge. Instead, I was at the 2014 meeting of the Baptist Association of Philosophy Teachers. A common theme of the presentations that I heard was the virtue of humility, one that seems often missing from academic life. This week's prayer:
 
 

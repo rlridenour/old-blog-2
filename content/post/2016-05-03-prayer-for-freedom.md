@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-05-03T07:33:59Z
+date: '2016-05-03T07:33:59Z'
 tags:
 - prayer
 - religion
 title: Prayer for Freedom
-url: /2016/05/03/prayer-for-freedom/
----
+url: "/2016/05/03/prayer-for-freedom/"
 
+---
 Almighty God,
 
 Free us from the prisons  

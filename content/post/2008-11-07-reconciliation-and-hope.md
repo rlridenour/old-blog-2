@@ -1,9 +1,9 @@
 ---
-date: 2008-11-07T10:35:27Z
+date: '2008-11-07T10:35:27Z'
 title: Reconciliation and Hope
-url: /2008/11/07/reconciliation-and-hope/
----
+url: "/2008/11/07/reconciliation-and-hope/"
 
+---
 <p>The year that I was born, 1963, was marked by these significant events:</p>
 <ul>
 <li>In April, Martin Luther King was arrested and jailed in Birmingham.</li>

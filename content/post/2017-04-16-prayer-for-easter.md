@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-04-16T15:28:41Z
+date: '2017-04-16T15:28:41Z'
 tags:
 - prayer
 - religion
 title: Prayer for Easter
-url: /2017/04/16/prayer-for-easter/
----
+url: "/2017/04/16/prayer-for-easter/"
 
+---
 ![Weeping Mary](/images/2017/weeping-mary.jpg)
 
 <small>

@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:10:53Z
-tags: [null]
+date: '2015-01-13T14:10:53Z'
+tags:
+- 
 title: Mercy, the Law, and Les Miserables
-url: /2015/01/13/mercy/
----
+url: "/2015/01/13/mercy/"
 
+---
 Mitch Randall always seems to have some clever and interesting themes to use for his sermon series. In the past, we've had, among others, movies, board-games, and monsters. This summer, the series was called "NorthHaven Goes to Broadway." Unfortunately, I missed most of it because of our vacation trip and military duty, but I was there this past Sunday for his sermon based on Les Mis&eacute;rables.
 
 I don't know if she was doing it to spiritually prepare for Sunday, but Sheri, my wife, had been playing the 2012 film version over the past week. A few days ago, she pointed out that there is an ethical problem in the film&mdash;specifically, the conflict between mercy, on the one hand, and faithfulness to the law on the other.

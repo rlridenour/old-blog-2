@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:18:16Z
-tags: [null]
+date: '2015-01-13T14:18:16Z'
+tags:
+- 
 title: Thoughts on Burwell vs. Hobby Lobby
-url: /2015/01/13/thoughts-on-burwell-vs-hobby-lobby/
----
+url: "/2015/01/13/thoughts-on-burwell-vs-hobby-lobby/"
 
+---
 Social media was certainly inundated with  reactions to yesterday's Supreme Court ruling in *Burwell vs. Hobby Lobby*. The majority were at the two extremes&mdash;either this was a great victory for religious liberty and a stunning blow to the Obama administration, or it was an unprecedented power-grab by religious conservatives and wealthy corporate America that will only prevent women from getting the health care that they need.
 
 As is generally the case, neither extreme position is correct. The *Affordable Care Act* is safe, and only certain corporations will be exempt from providing health coverage in very limited instances, provided that the government can easily provide such coverage. So, I don't think that the situation is as bad as some progressives have concluded.

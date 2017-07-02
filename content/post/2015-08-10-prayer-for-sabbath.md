@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-08-10T13:19:22Z
+date: '2015-08-10T13:19:22Z'
 tags:
 - prayer
 - religion
 title: Prayer for Sabbath
-url: /2015/08/10/prayer-for-sabbath/
----
+url: "/2015/08/10/prayer-for-sabbath/"
 
+---
 God of peace and rest,
 
 The parched landscape of the desert  

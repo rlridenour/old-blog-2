@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-04-03T21:13:37Z
+date: '2016-04-03T21:13:37Z'
 tags:
 - prayer
 - religion
 title: A Baptism Prayer
-url: /2016/04/03/a-baptism-prayer/
----
+url: "/2016/04/03/a-baptism-prayer/"
 
+---
 Thank you, Lord,  
 for showing us that  
 the Gospel still speaks,  

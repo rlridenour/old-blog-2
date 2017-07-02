@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:05:33Z
-tags: [null]
+date: '2015-01-13T13:05:33Z'
+tags:
+- 
 title: Twenty-Second Sunday After Pentecost
-url: /2015/01/13/twenty-second-sunday-after-pentecost/
----
+url: "/2015/01/13/twenty-second-sunday-after-pentecost/"
 
+---
 Merciful God,
 
 This day marks the end of the war  

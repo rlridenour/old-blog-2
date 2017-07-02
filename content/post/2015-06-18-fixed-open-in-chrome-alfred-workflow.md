@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-18T02:31:39Z
+date: '2015-06-18T02:31:39Z'
 tags:
 - osx
 - utilities
 title: Fixed Open in Chrome Alfred Workflow
-url: /2015/06/18/fixed-open-in-chrome-alfred-workflow/
----
+url: "/2015/06/18/fixed-open-in-chrome-alfred-workflow/"
 
+---
 I use Andrew Curtis-Black's "Open in Chrome" [Alfred workflow](http://www.alfredforum.com/topic/1875-open-current-safari-tab-in-chrome-improved/) whenever I need to view a page that uses Flash.
 After installing Parallels to run Windows on my Mac [^1], the workflow began misbehaving. It would start Parallels, then open Chrome in Windows, which is certainly not what I wanted to happen.
 

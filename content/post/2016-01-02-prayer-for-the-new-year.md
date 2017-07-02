@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-01-02T21:31:06Z
+date: '2016-01-02T21:31:06Z'
 tags:
 - prayer
 - religion
 title: Prayer for the New Year
-url: /2016/01/02/prayer-for-the-new-year/
----
+url: "/2016/01/02/prayer-for-the-new-year/"
 
+---
 A simple prayer for the new year:
 
 God of grace and wisdom  

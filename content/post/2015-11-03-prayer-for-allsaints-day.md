@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-03T19:41:56Z
+date: '2015-11-03T19:41:56Z'
 tags:
 - prayer
 - religion
 title: Prayer for All Saints Day
-url: /2015/11/03/prayer-for-allsaints-day/
----
+url: "/2015/11/03/prayer-for-allsaints-day/"
 
+---
 Lord, 
 
 We search for heroes   

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-20T20:12:48Z
+date: '2016-03-20T20:12:48Z'
 tags:
 - prayer
 - religion
 title: Prayer for Palm Sunday
-url: /2016/03/20/prayer-for-palm-sunday/
----
+url: "/2016/03/20/prayer-for-palm-sunday/"
 
+---
 Prince of Peace,
 
 The palm branches  

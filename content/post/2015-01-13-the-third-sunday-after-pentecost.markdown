@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:23:54Z
-tags: [null]
+date: '2015-01-13T14:23:54Z'
+tags:
+- 
 title: The Third Sunday After Pentecost
-url: /2015/01/13/the-third-sunday-after-pentecost/
----
+url: "/2015/01/13/the-third-sunday-after-pentecost/"
 
+---
 God of grace,
 
 We live in a word of concrete barricades, wooden fences, and stone walls that we have built to protect, separate, control, and hide; some hastily thrown up in hours, others carefully built in weeks or months.

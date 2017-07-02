@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-05T16:00:28Z
+date: '2015-07-05T16:00:28Z'
 tags:
 - prayer
 - religion
 title: Between Love and Hate
-url: /2015/07/05/between-love-and-hate/
----
+url: "/2015/07/05/between-love-and-hate/"
 
+---
 God of love and grace,
 
 Before there was anything else,  

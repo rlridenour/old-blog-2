@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:41:04Z
-tags: [prayer]
+date: '2015-01-13T16:41:04Z'
+tags:
+- prayer
 title: Prayer for the Medicated Preacher
-url: /2015/01/13/prayer-for-the-medicated-preacher/
----
+url: "/2015/01/13/prayer-for-the-medicated-preacher/"
 
+---
 To commemorate Mitch Randall's fine, although heavily drugged, preaching on May 11, 2014:
 
 Loving Father,

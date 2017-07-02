@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-29T19:43:51Z
+date: '2015-11-29T19:43:51Z'
 tags:
 - prayer
 - religion
 title: Prayer of Hope
-url: /2015/11/29/prayer-of-hope/
----
+url: "/2015/11/29/prayer-of-hope/"
 
+---
 *For the First Sunday of Advent*
 
 God of all hope,

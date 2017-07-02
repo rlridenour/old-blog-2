@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T17:12:18Z
-tags: [null]
+date: '2015-01-13T17:12:18Z'
+tags:
+- 
 title: Reinstalling Apps from Mac App Store
-url: /2015/01/13/reinstalling-apps-from-mac-app-store/
----
+url: "/2015/01/13/reinstalling-apps-from-mac-app-store/"
 
+---
 I was having some trouble with BBEdit on one of my machines, so I decided to delete and reinstall the application. That's not very difficult in ordinary circumstances, but since I bought from the App Store, it should have been even easier. There should be no need to enter any license information, just a click and install.
 
 First, I deleted the app. I deleted BBEdit from the applications folder. Somehow, it was still in Launchpad. So, I deleted it from Launchpad. Surely that would be enough.

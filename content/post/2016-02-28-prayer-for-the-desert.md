@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-02-28T15:44:25Z
+date: '2016-02-28T15:44:25Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Desert
-url: /2016/02/28/prayer-for-the-desert/
----
+url: "/2016/02/28/prayer-for-the-desert/"
 
+---
 God of life,
 
 Sometimes our prayers are as parched as the desert  

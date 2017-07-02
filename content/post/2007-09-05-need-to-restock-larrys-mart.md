@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-09-05T11:40:53Z
+date: '2007-09-05T11:40:53Z'
 tags:
 - army
 - iraq
 title: Need to Restock Larry's Mart
-url: /2007/09/05/need-to-restock-larrys-mart/
----
+url: "/2007/09/05/need-to-restock-larrys-mart/"
 
+---
 The stock at Larry's Mart is getting low. If any groups need a project, we could use some supplies. Here's a list of suggestions:
 
 **Toiletries:**

@@ -1,11 +1,11 @@
 ---
-date: 2015-03-07T10:38:05Z
+date: '2015-03-07T10:38:05Z'
 tags:
 - religion
 title: The Cross-Shattered Christ, Chapter 2
-url: /2015/03/07/crucified-god-chapter-2/
----
+url: "/2015/03/07/crucified-god-chapter-2/"
 
+---
 I struggled with the second chapter of Hauerwas' book, *The Cross-Shattered Christ*[^1], not because the chapter was particularly hard to follow, but because it forced me to reflect on my life as a teacher and minister. The chapter opened with a discussion of the reticence of the Gospels, why do they not tell us everything that we want to know? Why is Jesus simply silent on what many of us think are the most important questions of the day? We tend to be uncomfortable during times of silence, so we attempt to fill in the gaps, even when we have little of value to say. In much the same way, we are often uncomfortable with uncertainty, that is, being faced with questions for which we have no clear answers, so we take on the role of spokespeople for Christ. 
 
 Hauerwas points out the presumptuousness of this: "Our attempt to speak confidently of God in the face of modern skepticism, a skepticism we suspect also grips our lives as Christians, betrays a certainty inappropriate for a people who worship a crucified God."

@@ -1,12 +1,12 @@
 ---
-date: 2015-03-16T08:03:57Z
+date: '2015-03-16T08:03:57Z'
 tags:
 - prayer
 - religion
 title: Prayer for Lent 4
-url: /2015/03/16/prayer-for-lent-4/
----
+url: "/2015/03/16/prayer-for-lent-4/"
 
+---
 The best sermons open our eyes to present realities, give us hope for a future in the Kingdom, and challenge us to move forward into that future. Yesterday’s sermon by Mitch Randall​ at NorthHaven Church​ was certainly one of those. Here is the prayer for the week:
 
 God of Justice,

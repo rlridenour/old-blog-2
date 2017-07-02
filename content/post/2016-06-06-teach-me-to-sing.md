@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-06-06T16:27:44Z
+date: '2016-06-06T16:27:44Z'
 tags:
 - prayer
 - religion
 title: Teach Me to Sing
-url: /2016/06/06/teach-me-to-sing/
----
+url: "/2016/06/06/teach-me-to-sing/"
 
+---
 Voice of Heaven,
 
 Words become thoughts,  

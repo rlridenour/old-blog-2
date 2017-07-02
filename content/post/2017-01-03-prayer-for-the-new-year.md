@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-01-03T20:20:27Z
+date: '2017-01-03T20:20:27Z'
 tags:
 - prayer
 - religion
 title: Prayer for the New Year
-url: /2017/01/03/prayer-for-the-new-year/
----
+url: "/2017/01/03/prayer-for-the-new-year/"
 
+---
 Lord,
 
 May I not confuse

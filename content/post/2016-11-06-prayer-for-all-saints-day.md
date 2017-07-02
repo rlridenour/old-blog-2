@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-11-06T07:15:08Z
+date: '2016-11-06T07:15:08Z'
 tags:
 - prayer
 - religion
 title: Prayer for All Saints Day
-url: /2016/11/06/prayer-for-all-saints-day/
----
+url: "/2016/11/06/prayer-for-all-saints-day/"
 
+---
 Prayer for All Saints Day
 
 Lord, 

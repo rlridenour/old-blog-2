@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-09-25T08:51:34Z
+date: '2015-09-25T08:51:34Z'
 tags:
 - prayer
 - religion
 title: The Perfect Church
-url: /2015/09/25/the-perfect-church/
----
+url: "/2015/09/25/the-perfect-church/"
 
+---
 A prayer for those searching for the perfect church:
 
 Lord Jesus,

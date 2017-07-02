@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-05-24T13:28:23Z
+date: '2015-05-24T13:28:23Z'
 tags:
 - religion
 - prayer
 title: Prayer for Memorial Day, 2015
-url: /2015/05/24/prayer-for-memorial-day-2015/
----
+url: "/2015/05/24/prayer-for-memorial-day-2015/"
 
+---
 Holy God,
 
 We give thanks today,  

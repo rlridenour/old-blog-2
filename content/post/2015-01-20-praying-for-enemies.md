@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T12:10:44Z
-tags: [prayer]
+date: '2015-01-20T12:10:44Z'
+tags:
+- prayer
 title: Praying for Enemies
-url: /2015/01/20/praying-for-enemies/
----
+url: "/2015/01/20/praying-for-enemies/"
 
+---
 Mitch Randall's sermon this Sunday was on loving one's enemies, a notion that I believe is the radically distinctive concept in the ethics of Jesus. This week's prayer:
 
 In this deeply divided world,  

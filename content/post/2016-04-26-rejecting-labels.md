@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-04-26T18:21:48Z
+date: '2016-04-26T18:21:48Z'
 tags:
 - prayer
 - religion
 title: For Those Who Are Labeled
-url: /2016/04/26/rejecting-labels/
----
+url: "/2016/04/26/rejecting-labels/"
 
+---
 Almighty God,  
 Lord of all,  
 both the actual   

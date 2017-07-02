@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-11-17T15:28:51Z
+date: '2016-11-17T15:28:51Z'
 tags:
 - poetry
 title: To Love or Die
-url: /2016/11/17/to-love-or-die/
----
+url: "/2016/11/17/to-love-or-die/"
 
+---
 - All I have is a voice
 - To undo the folded lie,
 - The romantic lie in the brain
