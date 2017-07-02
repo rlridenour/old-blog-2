@@ -6,6 +6,7 @@ tags:
 - religion
 title: Prayer for Good Friday
 url: "/2017/04/14/prayer-for-good-friday/"
+---
 
 ![Carrying the Cross of Christ](/img/2017/cross-mosaic.jpg)
 
