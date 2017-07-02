@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-06-12T16:01:06Z
+date: '2016-06-12T16:01:06Z'
 tags:
 - prayer
 - religion
 title: Prayer for Orlando
-url: /2016/06/12/prayer-for-orlando/
----
+url: "/2016/06/12/prayer-for-orlando/"
 
+---
 Lord Jesus,
 
 On this day that we mourn   

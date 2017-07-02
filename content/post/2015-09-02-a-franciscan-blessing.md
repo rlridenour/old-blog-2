@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-09-02T13:38:23Z
+date: '2015-09-02T13:38:23Z'
 tags:
 - prayer
 - religion
 title: A Franciscan Blessing
-url: /2015/09/02/a-franciscan-blessing/
----
+url: "/2015/09/02/a-franciscan-blessing/"
 
+---
 I can't find the original source of this blessing, but it's attributed to the Franciscans. It's both powerful and provocative to think of discomfort, anger, tears, and foolishness as blessings.
 
 > May God bless you with discomfort,  

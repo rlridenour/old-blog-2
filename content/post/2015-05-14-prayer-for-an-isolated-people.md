@@ -1,14 +1,13 @@
 ---
 comments: true
-date: 2015-05-14T19:42:37Z
-published: true
+date: '2015-05-14T19:42:37Z'
 tags:
 - religion
 - prayer
 title: Prayer for an Isolated People
-url: /2015/05/14/prayer-for-an-isolated-people/
----
+url: "/2015/05/14/prayer-for-an-isolated-people/"
 
+---
 God of Grace and Wholeness,  
 
 All around us, we see pain and heartache,  

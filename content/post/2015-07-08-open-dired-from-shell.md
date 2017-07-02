@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-08T09:47:32Z
+date: '2015-07-08T09:47:32Z'
 tags:
 - emacs
 - zsh
 title: Open Dired From Shell
-url: /2015/07/08/open-dired-from-shell/
----
+url: "/2015/07/08/open-dired-from-shell/"
 
+---
 I was browsing the interwebs this morning, looking for a way to open a Dired buffer of the current finder window. There is a lot on going the other way, from Emacs to the Finder, but nothing from the Finder to Emacs.
 I got this from [Fortune Datko](http://datko.net/2013/07/11/open-emacs-dired-buffer-from-dired/ ):
 

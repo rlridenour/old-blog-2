@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-03-16T07:50:38Z
+date: '2017-03-16T07:50:38Z'
 tags:
 - politics
 - economics
 title: Obama's Economic Record
-url: /2017/03/16/obamas-economic-record/
----
+url: "/2017/03/16/obamas-economic-record/"
 
+---
 In a recent discussion, one participate claimed that the "last eight years of Obamanomics has crippled our struggling state," which I suspect is supported more by a political narrative than an analysis of the data.
 
 The new administration is at least fortunate that the problems handed to them are not at the same level as those handed to the previous administration. During the Obama administration, economic growth was admittedly slow, but considering that he took office on the precipice of what could have been the second great depression, these national numbers look pretty good:

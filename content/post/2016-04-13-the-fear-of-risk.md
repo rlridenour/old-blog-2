@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-04-13T10:50:43Z
+date: '2016-04-13T10:50:43Z'
 tags:
 - prayer
 - religion
 title: The Fear of Risk
-url: /2016/04/13/the-fear-of-risk/
----
+url: "/2016/04/13/the-fear-of-risk/"
 
+---
 Gracious God,
 
 We live in fear  

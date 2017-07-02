@@ -1,12 +1,12 @@
 ---
-date: 2015-03-09T07:02:52Z
+date: '2015-03-09T07:02:52Z'
 tags:
 - prayer
 - religion
 title: Prayer for Lent 3
-url: /2015/03/09/prayer-for-lent-3/
----
+url: "/2015/03/09/prayer-for-lent-3/"
 
+---
 *A prayer for reconciliation.*
 
 God of love,

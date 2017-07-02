@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-09-27T07:32:46Z
+date: '2016-09-27T07:32:46Z'
 tags:
 - prayer
 - religion
 title: The Eyes of Faith
-url: /2016/09/27/the-eyes-of-faith/
----
+url: "/2016/09/27/the-eyes-of-faith/"
 
+---
 Creator God,
 
 I gaze out from my fortress,  

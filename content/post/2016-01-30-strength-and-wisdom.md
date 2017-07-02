@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-01-30T18:56:45Z
+date: '2016-01-30T18:56:45Z'
 tags:
 - prayer
 - religion
 title: Strength and Wisdom
-url: /2016/01/30/strength-and-wisdom/
----
+url: "/2016/01/30/strength-and-wisdom/"
 
+---
 A prayer after a week in which I had made prior commitments for four straight evenings following the thirty hour trip back from Ghana:
 
 Grant us, Lord,  

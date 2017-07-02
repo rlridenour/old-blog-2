@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:39:30Z
-tags: [prayer]
+date: '2015-01-13T16:39:30Z'
+tags:
+- prayer
 title: Memorial Day Prayer
-url: /2015/01/13/memorial-day-prayer/
----
+url: "/2015/01/13/memorial-day-prayer/"
 
+---
 God of creation,
 
 You gave us our first breath,  

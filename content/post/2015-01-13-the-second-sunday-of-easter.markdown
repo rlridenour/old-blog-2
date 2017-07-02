@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:47:01Z
-tags: [prayer]
+date: '2015-01-13T16:47:01Z'
+tags:
+- prayer
 title: The Second Sunday of Easter
-url: /2015/01/13/the-second-sunday-of-easter/
----
+url: "/2015/01/13/the-second-sunday-of-easter/"
 
+---
 *A prayer prompted by the deacon ordination service at NorthHaven Church, April 27, 2014.*
 
 Lord Jesus,

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-10-30T19:47:59Z
+date: '2015-10-30T19:47:59Z'
 tags:
 - prayer
 - religion
 title: Reformation Day Prayer
-url: /2015/10/30/reformation-day-prayer/
----
+url: "/2015/10/30/reformation-day-prayer/"
 
+---
 God of grace,
 
 On the door of the church,  

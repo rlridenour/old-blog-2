@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-07T15:04:45Z
+date: '2016-03-07T15:04:45Z'
 tags:
 - prayer
 - religion
 title: Faith and Power
-url: /2016/03/07/faith-and-power/
----
+url: "/2016/03/07/faith-and-power/"
 
+---
 The text for Mitch Randall's sermon was the story of Simon the magician in Acts 8. As I though about the passage, I was struck by Simon's willingness to pay for the power to confer the Holy Spirit on others, that is, his desire to exchange financial power for religious power. That, in turn, prompted me to think about the current role of religion in politics.
 
 This week's prayer:

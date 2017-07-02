@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-12-08T06:44:22Z
+date: '2016-12-08T06:44:22Z'
 tags:
 - prayer
 - religion
 title: The Frailty of Love
-url: /2016/12/08/the-frailty-of-love/
----
+url: "/2016/12/08/the-frailty-of-love/"
 
+---
 Love left its throne,  
 to join us in our   
 weakness and frailty,  

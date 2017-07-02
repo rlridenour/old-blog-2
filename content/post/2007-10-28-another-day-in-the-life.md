@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-10-28T19:05:10Z
+date: '2007-10-28T19:05:10Z'
 tags:
 - army
 - iraq
 title: Another Day in the Life...
-url: /2007/10/28/another-day-in-the-life/
----
+url: "/2007/10/28/another-day-in-the-life/"
 
+---
 <p>The events of the day, which was a typical Sunday:</p>
 <p>0500 - Wake up, shave, get dressed for Physical Training</p>
 <p>0600 - Run with a soldier who asked me to pace him on the 2 mile physical fitness test run.</p>

@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:34:09Z
-tags: [prayer]
+date: '2015-01-13T13:34:09Z'
+tags:
+- prayer
 title: The Twelfth Sunday After Pentecost
-url: /2015/01/13/the-twelfth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-twelfth-sunday-after-pentecost/"
 
+---
 Loving God,
 
 Apathy is a vice  

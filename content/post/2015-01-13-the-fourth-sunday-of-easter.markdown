@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:43:49Z
-tags: [prayer]
+date: '2015-01-13T16:43:49Z'
+tags:
+- prayer
 title: The Fourth Sunday of Easter
-url: /2015/01/13/the-fourth-sunday-of-easter/
----
+url: "/2015/01/13/the-fourth-sunday-of-easter/"
 
+---
 God of grace and love,  
   
 History is filled  

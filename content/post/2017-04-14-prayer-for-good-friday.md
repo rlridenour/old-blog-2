@@ -1,12 +1,11 @@
 ---
 comments: true
-date: 2017-04-14T15:57:47Z
+date: '2017-04-14T15:57:47Z'
 tags:
 - prayer
 - religion
 title: Prayer for Good Friday
-url: /2017/04/14/prayer-for-good-friday/
----
+url: "/2017/04/14/prayer-for-good-friday/"
 
 ![Carrying the Cross of Christ](/img/2017/cross-mosaic.jpg)
 

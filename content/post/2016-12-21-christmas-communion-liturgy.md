@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-12-21T13:38:17Z
+date: '2016-12-21T13:38:17Z'
 tags:
 - religion
 title: Christmas Communion Liturgy
-url: /2016/12/21/christmas-communion-liturgy/
----
+url: "/2016/12/21/christmas-communion-liturgy/"
 
+---
 Peace be with you,
 
 When a new emperor took the throne in Rome, messengers were sent to the rich and powerful to deliver "glad tidings" of Caesar, who was called "savior and lord" and promised to bring peace to the empire through the power of his vast riches and his mighty armies.

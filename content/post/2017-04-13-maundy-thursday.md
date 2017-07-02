@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2017-04-13T15:41:19Z
+date: '2017-04-13T15:41:19Z'
 tags:
 - religion
 title: Thoughts on Maundy Thursday
-url: /2017/04/13/maundy-thursday/
----
+url: "/2017/04/13/maundy-thursday/"
 
+---
 This day of the church calendar, Maundy Thursday, gets its name from John 13:34, which, in the Latin Vulgate, begins with "mandatum novum" — a new commandment. After washing the feet of the disciples earlier in chapter 13, Jesus told them,
 
 >I give you a new commandment, that you love one another. Just as I have loved you, you also should love one another. By this everyone will know that you are my disciples, if you have love for one another.

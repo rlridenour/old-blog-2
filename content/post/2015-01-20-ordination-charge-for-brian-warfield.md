@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T13:25:00Z
-tags: [religion]
+date: '2015-01-20T13:25:00Z'
+tags:
+- religion
 title: Ordination Charge for Brian Warfield
-url: /2015/01/20/ordination-charge-for-brian-warfield/
----
+url: "/2015/01/20/ordination-charge-for-brian-warfield/"
 
+---
 I was honored to be asked to deliver the following charge to the minister at the ordination of Brian Warfield, one of our best former students. It was a pleasure to see Brian, Misty, and to meet their children. It was also great to catch up with friends at Spring Creek Baptist Church, where Brian was ordained. The text of my remarks follows:  
 
 Charge to the Minister  

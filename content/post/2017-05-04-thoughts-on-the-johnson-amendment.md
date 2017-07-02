@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-05-04T20:36:11Z
+date: '2017-05-04T20:36:11Z'
 tags:
 - religion
 - politics
 title: Thoughts on Trump and the Johnson Amendment
-url: /2017/05/04/thoughts-on-the-johnson-amendment/
----
+url: "/2017/05/04/thoughts-on-the-johnson-amendment/"
 
+---
 Some thoughts on President Trump's Executive Order on "Promoting  Free Speech and Religious Liberty" that was recently issued:
 
 First of all, the President's executive order doesn't change anything about religious leaders engaging in political action from the pulpit.  This is from section 2, the relevant part of the order:

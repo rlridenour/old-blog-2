@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T08:22:52Z
-tags: 
+date: '2015-01-13T08:22:52Z'
+tags:
 - poetry
 title: A Christmas Poem
-url: /2015/01/13/a-christmas-poem/
----
+url: "/2015/01/13/a-christmas-poem/"
 
+---
 A hundred mile journey  
 from Nazareth to Bethlehem,  
 taken at the whim  

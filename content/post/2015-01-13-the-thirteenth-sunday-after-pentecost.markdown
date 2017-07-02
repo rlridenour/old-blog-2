@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:27:08Z
-tags: [prayer]
+date: '2015-01-13T13:27:08Z'
+tags:
+- prayer
 title: The Thirteenth Sunday After Pentecost
-url: /2015/01/13/the-thirteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-thirteenth-sunday-after-pentecost/"
 
+---
 Sheri and I recently spent the weekend with some soldiers from my Afghanistan deployment and their families. I wrote this prayer after reflecting on the experience:
 
 

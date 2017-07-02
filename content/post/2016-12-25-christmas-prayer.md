@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-12-25T21:03:10Z
+date: '2016-12-25T21:03:10Z'
 tags:
 - prayer
 - religion
 title: Christmas Prayer
-url: /2016/12/25/christmas-prayer/
----
+url: "/2016/12/25/christmas-prayer/"
 
+---
 Who am I this Christmas Day?
 
 Am I an angel, bringing good news to those who yearn to hear it?

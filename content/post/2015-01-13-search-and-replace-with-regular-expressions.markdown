@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T17:06:36Z
-tags: [emacs]
+date: '2015-01-13T17:06:36Z'
+tags:
+- emacs
 title: Search and Replace with Regular Expressions
-url: /2015/01/13/search-and-replace-with-regular-expressions/
----
+url: "/2015/01/13/search-and-replace-with-regular-expressions/"
 
+---
 I wrote the post that follows below so that I could remember how to use regular expressions for search and replace operations in Sublime Text. Since I just now made some headway in Emacs, I'll repost with some updates, again, primarily as a reference for myself.
 
 There is no doubt that regular expressions are very powerful. I've found that the documentation for regular expressions is often as mysterious as the things that the documentation is supposed to explain. Keeping in mind that I am certainly no expert, learning even a little about the use of regular expressions can be quite valuable.

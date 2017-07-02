@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:51:11Z
-tags: 
+date: '2015-01-13T16:51:11Z'
+tags:
 - prayer
 title: Holy Saturday
-url: /2015/01/13/holy-saturday/
----
+url: "/2015/01/13/holy-saturday/"
 
+---
 Happiness,  
 joy,  
 peace,  

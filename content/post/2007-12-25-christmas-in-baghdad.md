@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-12-25T17:26:18Z
+date: '2007-12-25T17:26:18Z'
 tags:
 - army
 - iraq
 title: Christmas in Baghdad
-url: /2007/12/25/christmas-in-baghdad/
----
+url: "/2007/12/25/christmas-in-baghdad/"
 
+---
 <p>It is Christmas Day, 2007, now almost 8:00 in the evening. We have finished dinner, and now I have returned to the solitude of my trailer. After work on Christmas Eve, I organized a little fellowship gathering behind the building. We ate some snacks, threw horseshoes and darts, and talked around a fire. We then went to the palace for the base candlelight service. The Tongan Marine Choir sang, and everyone had a wonderful time. After the service, we all went to the dining facility to eat dinner together. I then went back to the trailer, and tried to call Sheri, but could not get a good connection. In the meantime, the headquarters called to tell me that an emergency message had come for one of the soldiers. Her brother had died that evening. I went back to the office, talked with her on the phone (she had gone to Balad for a class), then called Sheri.</p>
 <p>Christmas morning began with my men's group that meets on Tuesday mornings. That was followed by a briefing at Brigade headquarters. I went to the office then, and opened the Christmas presents that Sheri had sent me a few weeks ago. I have to admit, it was a little lonely opening up Christmas presents all by myself. We had a service at noon in the chapel, then Christmas dinner in the dining facility. This afternoon, we avoided work as much as possible. One of the guys has a Wii video game, and we had bowling and golf tournaments. After I was quickly eliminated from the bowling tournament, I walked around all of the buildings and visited with soldiers.</p>
 <p>I think that this was my first Christmas away from home. Sheri and I spent some Christmases in Germany when I was stationed there, but we were always together. Home is wherever she is, and I pray that we never spend another Christmas apart. Even though I was away from home, I still spent the holiday with family. My army family and I have been through a lot together, and the fun we share together greatly softens the blow of loneliness.</p>

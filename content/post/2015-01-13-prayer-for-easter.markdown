@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:49:29Z
-tags: [prayer]
+date: '2015-01-13T16:49:29Z'
+tags:
+- prayer
 title: Prayer for Easter
-url: /2015/01/13/prayer-for-easter/
----
+url: "/2015/01/13/prayer-for-easter/"
 
+---
 We hear Jesus say,  
   
 "Love your enemies,  

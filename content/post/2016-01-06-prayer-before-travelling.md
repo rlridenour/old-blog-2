@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-01-06T19:46:14Z
+date: '2016-01-06T19:46:14Z'
 tags:
 - prayer
 - religion
 title: Prayer Before Traveling
-url: /2016/01/06/prayer-before-travelling/
----
+url: "/2016/01/06/prayer-before-travelling/"
 
+---
 Prayer for an evening of frantic packing before a trip to Africa. I'll be teaching philosophy of religion at a Baptist seminary in Ghana for the next two weeks.
 
 Lord,

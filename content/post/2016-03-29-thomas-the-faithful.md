@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-29T08:39:59Z
+date: '2016-03-29T08:39:59Z'
 tags:
 - prayer
 - religion
 title: Thomas the Faithful
-url: /2016/03/29/thomas-the-faithful/
----
+url: "/2016/03/29/thomas-the-faithful/"
 
+---
 Lord Jesus,
 
 You warned the disciples   

@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:23:33Z
-tags: [prayer]
+date: '2015-01-13T13:23:33Z'
+tags:
+- prayer
 title: The Fifteenth Sunday After Pentecost
-url: /2015/01/13/the-fifteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-fifteenth-sunday-after-pentecost/"
 
+---
 In response to a sermon on Daniel 3:
 
 How shall we respond to the furnaces of life?

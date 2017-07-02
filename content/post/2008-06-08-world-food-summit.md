@@ -1,9 +1,9 @@
 ---
-date: 2008-06-08T12:49:39Z
+date: '2008-06-08T12:49:39Z'
 title: World Food Summit
-url: /2008/06/08/world-food-summit/
----
+url: "/2008/06/08/world-food-summit/"
 
+---
 <p>The summit on soaring food prices ended last week. For years, I have read that there is plenty of food available to feed everyone on the planet, but the problem was distributing that food. We know from recent events in Myanmar that uncooperative regimes can make aid distribution impossible. Now, though, it seems that there is a genuine food shortage, not simply a problem of distribution. What has changed?</p>
 <p><!--more--><br />
  My guess is that we will all try to find the one cause of the crisis, and each group will propose a different cause depending on their political leanings. We should keep in mind that complex situations generally have complex causes, and oversimplification often exacerbates the problem. Here are a few things that need to be considered.</p>

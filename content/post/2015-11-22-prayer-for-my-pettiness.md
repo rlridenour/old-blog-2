@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-22T21:01:55Z
+date: '2015-11-22T21:01:55Z'
 tags:
 - prayer
 - religion
 title: Prayer for My Pettiness
-url: /2015/11/22/prayer-for-my-pettiness/
----
+url: "/2015/11/22/prayer-for-my-pettiness/"
 
+---
 Father,
 
 I'm surrounded by voices  

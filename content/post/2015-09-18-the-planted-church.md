@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-09-18T12:39:52Z
+date: '2015-09-18T12:39:52Z'
 tags:
 - prayer
 - religion
 title: The Planted Church
-url: /2015/09/18/the-planted-church/
----
+url: "/2015/09/18/the-planted-church/"
 
+---
 Gracious God, Giver of life,
 
 Long ago,  

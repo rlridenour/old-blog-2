@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-05-23T20:51:51Z
+date: '2016-05-23T20:51:51Z'
 tags:
 - prayer
 - religion
 title: Prayer for Our Fears
-url: /2016/05/23/prayer-for-our-fears/
----
+url: "/2016/05/23/prayer-for-our-fears/"
 
+---
 God of hope and joy,
 
 You are with me,  

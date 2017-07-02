@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T09:17:42Z
-tags: [prayer]
+date: '2015-01-13T09:17:42Z'
+tags:
+- prayer
 title: Third Sunday of Advent
-url: /2015/01/13/third-sunday-of-advent/
----
+url: "/2015/01/13/third-sunday-of-advent/"
 
+---
 This is a prayer I wrote for the Christmas special at NorthHaven Church today:
 
 Holy God,

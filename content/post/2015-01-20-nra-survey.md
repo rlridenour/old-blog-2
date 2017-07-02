@@ -2,11 +2,11 @@
 categories:
 - Critical Thinking
 comments: true
-date: 2015-01-20T10:09:00Z
+date: '2015-01-20T10:09:00Z'
 title: NRA Survey
-url: /2015/01/20/nra-survey/
----
+url: "/2015/01/20/nra-survey/"
 
+---
 I just received a call from the National Rifle Association today. A recorded message from the NRA Executive Vice-President concerning the U.N. Small Arms Treaty was followed by the following single question survey:
 
 >Do you think it's OK for the U.N. to be on our soil attacking our gun rights?

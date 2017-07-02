@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2010-07-15T21:08:24Z
+date: '2010-07-15T21:08:24Z'
 tags:
 - religion
 title: Justice
-url: /2010/07/15/i-cant-stand-your-religious-meetings-im-fed/
----
+url: "/2010/07/15/i-cant-stand-your-religious-meetings-im-fed/"
 
+---
 <blockquote>I can't stand your religious meetings.<br />
    I'm fed up with your conferences and conventions.<br />
 I want nothing to do with your religion projects,<br />

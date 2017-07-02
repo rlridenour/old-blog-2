@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-10-19T20:10:34Z
+date: '2015-10-19T20:10:34Z'
 tags:
 - prayer
 - religion
 title: For the Moments of Darkness
-url: /2015/10/19/for-the-moments-of-darkness/
----
+url: "/2015/10/19/for-the-moments-of-darkness/"
 
+---
 Loving God,  
 Source of light in our darkness,  
   

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-01-30T15:37:27Z
+date: '2017-01-30T15:37:27Z'
 tags:
 - prayer
 - religion
 title: Political Engagement — a Prayer
-url: /2017/01/30/political-engagement--a-prayer/
----
+url: "/2017/01/30/political-engagement--a-prayer/"
 
+---
 Lord, hear my prayer.
 
 For saying that something needs to be done  

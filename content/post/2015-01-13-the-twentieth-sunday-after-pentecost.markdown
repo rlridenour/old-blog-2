@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:11:33Z
-tags: [prayer]
+date: '2015-01-13T13:11:33Z'
+tags:
+- prayer
 title: The Twentieth Sunday After Pentecost
-url: /2015/01/13/the-twentieth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-twentieth-sunday-after-pentecost/"
 
+---
 I want a faith  
 that is like  
 a good pair of shoes.

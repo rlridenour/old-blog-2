@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-09-07T20:59:39Z
+date: '2015-09-07T20:59:39Z'
 tags:
 - prayer
 - religion
 title: Hiding in God's Own Sanctuary
-url: /2015/09/07/20150906-called-church-prayer/
----
+url: "/2015/09/07/20150906-called-church-prayer/"
 
+---
 "Where are you?"
 
 The sound of heartbreak  

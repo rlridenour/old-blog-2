@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-06-23T15:19:23Z
+date: '2016-06-23T15:19:23Z'
 tags:
 - emacs
 title: Emacs on the iPad
-url: /2016/06/23/emacs-on-the-ipad/
----
+url: "/2016/06/23/emacs-on-the-ipad/"
 
+---
 The iPad Pro has more people considering using the iPad for production, not just for entertainment. I have long been jealous of those who could use an iPad for most of their work, especially now, as iPad displays get bigger and nicer. I would love to be able to throw an iPad and keyboard into a small bag and be able to use the same tool for both reading and writing.
 
 Unfortunately, though, two things have kept me from being able to easily do that. First, I do almost of all my work in Emacs, and I'm afraid that Apple would never allow Emacs on the iPad. Second, except for blog posts, almost everything I write eventually becomes a LaTeX document that is compiled into a PDF.

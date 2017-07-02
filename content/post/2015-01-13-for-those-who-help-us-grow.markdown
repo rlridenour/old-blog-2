@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T09:15:32Z
-tags: 
+date: '2015-01-13T09:15:32Z'
+tags:
 - prayer
 title: For Those Who Help Us Grow
-url: /2015/01/13/for-those-who-help-us-grow/
----
+url: "/2015/01/13/for-those-who-help-us-grow/"
 
+---
 Sometimes it seems  
 like the world  
 is filled  

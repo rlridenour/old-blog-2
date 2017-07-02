@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-06-04T20:52:54Z
+date: '2015-06-04T20:52:54Z'
 tags:
 - emacs
 title: Stringp, Nil Error in Emacs
-url: /2015/06/04/stringp-nil-error-in-emacs/
----
+url: "/2015/06/04/stringp-nil-error-in-emacs/"
 
+---
 This is one of those posts that serve only to remind me of something in the future. My Emacs configuration was working well on one machine.  Whenever I opened dired on another machine, though, this error was returned:
 
 `wrong type argument: stringp, nil`

@@ -1,12 +1,12 @@
 ---
-date: 2015-04-03T16:50:03Z
+date: '2015-04-03T16:50:03Z'
 tags:
 - prayer
 - religion
 title: Good Friday Prayer
-url: /2015/04/03/good-friday-prayer/
----
+url: "/2015/04/03/good-friday-prayer/"
 
+---
 Tiny gold crosses  
 hang from sparkling  
 gold chains,  

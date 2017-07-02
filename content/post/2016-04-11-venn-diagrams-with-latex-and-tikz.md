@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-04-11T15:16:22Z
+date: '2016-04-11T15:16:22Z'
 tags:
 - latex
 - logic
 title: Venn Diagrams with LaTeX and TikZ
-url: /2016/04/11/venn-diagrams-with-latex-and-tikz/
----
+url: "/2016/04/11/venn-diagrams-with-latex-and-tikz/"
 
+---
 I spent the weekend working on Venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I thought it was a much better use of my time than mowing the lawn, and one never knows when a good Venn diagram will be needed.
 
 ## The Initial Diagram ##

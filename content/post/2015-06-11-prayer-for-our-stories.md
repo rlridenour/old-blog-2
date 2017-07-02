@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-11T09:13:53Z
+date: '2015-06-11T09:13:53Z'
 tags:
 - prayer
 - religion
 title: Lives are Stories — A Prayer
-url: /2015/06/11/prayer-for-our-stories/
----
+url: "/2015/06/11/prayer-for-our-stories/"
 
+---
 Gracious God,  
 who knows us better  
 than we know ourselves,

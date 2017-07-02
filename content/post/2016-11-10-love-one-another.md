@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-11-10T16:10:27Z
+date: '2016-11-10T16:10:27Z'
 tags:
 - prayer
 - religion
 title: After the Election — Love
-url: /2016/11/10/love-one-another/
----
+url: "/2016/11/10/love-one-another/"
 
+---
 There are circumstances during which my failure becomes clearly evident, and the events of the past few days have given me needed opportunity to reflect on that failure.
 
 God's commandment is to love — a commandment given not to an abstract entity such as government or the church, but a commandment given to me. 

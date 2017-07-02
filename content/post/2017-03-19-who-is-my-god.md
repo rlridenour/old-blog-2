@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-03-19T20:30:14Z
+date: '2017-03-19T20:30:14Z'
 tags:
 - prayer
 - religion
 title: Who Is My God?
-url: /2017/03/19/who-is-my-god/
----
+url: "/2017/03/19/who-is-my-god/"
 
+---
 Does my God  
 love only what I love,  
 and hate only what I hate?

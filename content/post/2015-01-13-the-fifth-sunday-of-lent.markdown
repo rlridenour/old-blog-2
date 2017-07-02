@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:57:12Z
-tags: [prayer]
+date: '2015-01-13T16:57:12Z'
+tags:
+- prayer
 title: the Fifth Sunday of Lent
-url: /2015/01/13/the-fifth-sunday-of-lent/
----
+url: "/2015/01/13/the-fifth-sunday-of-lent/"
 
+---
 Lord Jesus,  
   
 What kind of king are you?  

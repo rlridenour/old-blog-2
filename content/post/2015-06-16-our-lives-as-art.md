@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-16T09:17:39Z
+date: '2015-06-16T09:17:39Z'
 tags:
 - prayer
 - religion
 title: Our Lives as Art
-url: /2015/06/16/our-lives-as-art/
----
+url: "/2015/06/16/our-lives-as-art/"
 
+---
 Great God of beauty and wonder,
 
 There are days when I wish  

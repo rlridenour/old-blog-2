@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-01-21T19:36:24Z
+date: '2017-01-21T19:36:24Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Fight
-url: /2017/01/21/prayer-for-the-fight/
----
+url: "/2017/01/21/prayer-for-the-fight/"
 
+---
 We thank God  
 that we are not  
 like the ones  

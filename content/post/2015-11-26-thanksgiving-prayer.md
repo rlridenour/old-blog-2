@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-26T13:30:27Z
+date: '2015-11-26T13:30:27Z'
 tags:
 - prayer
 - religion
 title: Thanksgiving Prayer
-url: /2015/11/26/thanksgiving-prayer/
----
+url: "/2015/11/26/thanksgiving-prayer/"
 
+---
 Gracious Father,
 
 There are those today  

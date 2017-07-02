@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:21:55Z
-tags: [prayer]
+date: '2015-01-13T13:21:55Z'
+tags:
+- prayer
 title: The Sixteenth Sunday After Pentecost
-url: /2015/01/13/the-sixteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-sixteenth-sunday-after-pentecost/"
 
+---
 As I was driving to work this morning, the person behind me honked as I was waiting for a pedestrian to cross the street at a marked crosswalk. I was still fuming and telling myself that I wish I could have told them what I really thought as they pulled into the parking space beside me. Fortunately, I had just heard Mitch Randall's sermon on Daniel in the lions' den the day before. With that said, here is the prayer for the week:
 
 Lord,

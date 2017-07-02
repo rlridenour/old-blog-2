@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T16:26:44Z
-tags: [null]
+date: '2015-01-20T16:26:44Z'
+tags:
+- 
 title: Who Is My Enemy?
-url: /2015/01/20/who-is-my-enemy/
----
+url: "/2015/01/20/who-is-my-enemy/"
 
+---
 The parable of the Good Samaritan is prompted by a lawyer's question in Luke 10:29, "But wanting to justify himself, he asked Jesus, 'And who is my neighbor?'"   That phrase, "But wanting to justify himself" plays an important role in a sermon of mine, where I claimed that this places the lawyer on par with the typical caller on a talk-radio show. On this reading, the phrase means something like, "In order to impress those listening in," or "In order to sound smarter than he really was." 
 
 I'm no longer confident, though, that I've been fair to the lawyer. Why would any 1st-century Jew have asked what the greatest commandment was? Everyone would have agreed that it is found in Deuteronomy 6:5, "You shall love the Lord your God with all your heart, and with all your soul, and with all your might." 

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-23T21:09:54Z
+date: '2015-06-23T21:09:54Z'
 tags:
 - emacs
 - osx
 title: Emacs on OS X
-url: /2015/06/23/emacs-on-os-x/
----
+url: "/2015/06/23/emacs-on-os-x/"
 
+---
 ## Homebrew ##
 
 I install Emacs with [Homebrew](http://brew.sh). After installing Homebrew, just type the following in Terminal:

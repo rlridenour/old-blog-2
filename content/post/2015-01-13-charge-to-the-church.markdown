@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:48:07Z
-tags: 
+date: '2015-01-13T16:48:07Z'
+tags:
 - religion
 title: Charge to the Church
-url: /2015/01/13/charge-to-the-church/
----
+url: "/2015/01/13/charge-to-the-church/"
 
+---
 *For the NorthHaven Church Deacon Ordination Service*  
 *April 27, 2014*
 

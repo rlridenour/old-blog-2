@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-12-16T15:37:53Z
+date: '2015-12-16T15:37:53Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Joy of Advent
-url: /2015/12/16/prayer-for-the-joy-of-advent/
----
+url: "/2015/12/16/prayer-for-the-joy-of-advent/"
 
+---
 God of joy,
 
 A cacophony of voices  

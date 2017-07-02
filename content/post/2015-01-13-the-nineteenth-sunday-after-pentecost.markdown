@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:12:45Z
-tags: [prayer]
+date: '2015-01-13T13:12:45Z'
+tags:
+- prayer
 title: The Nineteenth Sunday After Pentecost
-url: /2015/01/13/the-nineteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-nineteenth-sunday-after-pentecost/"
 
+---
 Here I am, Lord,
 asking for just
 one more chance.

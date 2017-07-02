@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:14:13Z
-tags: [prayer]
+date: '2015-01-13T13:14:13Z'
+tags:
+- prayer
 title: The Eighteenth Sunday After Pentecost
-url: /2015/01/13/the-eighteenth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-eighteenth-sunday-after-pentecost/"
 
+---
 Holy God,
 
 Examine our hearts,  

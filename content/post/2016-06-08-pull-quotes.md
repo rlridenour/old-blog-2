@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-06-08T11:04:07Z
+date: '2016-06-08T11:04:07Z'
 tags:
 - jekyll
 title: Pull Quotes
-url: /2016/06/08/pull-quotes/
----
+url: "/2016/06/08/pull-quotes/"
 
+---
 Here is my attempt at pull quotes in the Lanyon/Poole theme for Jekyll:
 
 ``` css

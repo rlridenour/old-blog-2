@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-10-04T17:17:47Z
+date: '2015-10-04T17:17:47Z'
 tags:
 - prayer
 - religion
 title: Gun Violence — A Prayer
-url: /2015/10/04/gun-violence--a-prayer/
----
+url: "/2015/10/04/gun-violence--a-prayer/"
 
+---
 Grieving for the lives lost in Oregon, a   
 prayer for World Communion Sunday, 2015:
 

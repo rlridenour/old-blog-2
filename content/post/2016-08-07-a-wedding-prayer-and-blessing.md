@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-08-07T19:39:30Z
+date: '2016-08-07T19:39:30Z'
 tags:
 - prayer
 - religion
 title: A Wedding Prayer and Blessing
-url: /2016/08/07/a-wedding-prayer-and-blessing/
----
+url: "/2016/08/07/a-wedding-prayer-and-blessing/"
 
+---
 I officiated a wedding for a former student and dear friend yesterday. Here is the prayer and blessing from the ceremony:
 
 God of grace, hear our prayer,

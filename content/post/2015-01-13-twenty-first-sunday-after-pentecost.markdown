@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:07:02Z
-tags: [null]
+date: '2015-01-13T13:07:02Z'
+tags:
+- 
 title: Twenty-First Sunday After Pentecost
-url: /2015/01/13/twenty-first-sunday-after-pentecost/
----
+url: "/2015/01/13/twenty-first-sunday-after-pentecost/"
 
+---
 Lord,
 
 Stay with me  

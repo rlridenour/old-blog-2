@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-24T15:44:22Z
+date: '2016-03-24T15:44:22Z'
 tags:
 - prayer
 - religion
 title: Prayer for Maundy Thursday
-url: /2016/03/24/prayer-for-maundy-thursday/
----
+url: "/2016/03/24/prayer-for-maundy-thursday/"
 
+---
 Father,
 
 Examine my heart,  

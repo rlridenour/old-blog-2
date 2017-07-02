@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-04-15T20:25:25Z
+date: '2017-04-15T20:25:25Z'
 tags:
 - prayer
 - religion
 title: Prayer for Holy Saturday
-url: /2017/04/15/prayer-for-holy-saturday/
----
+url: "/2017/04/15/prayer-for-holy-saturday/"
 
+---
 Loving God,
 
 Despair or hope?

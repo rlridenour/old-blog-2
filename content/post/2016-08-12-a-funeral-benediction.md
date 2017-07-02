@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-08-12T16:23:27Z
+date: '2016-08-12T16:23:27Z'
 tags:
 - prayer
 - religion
 title: A Funeral Benediction
-url: /2016/08/12/a-funeral-benediction/
----
+url: "/2016/08/12/a-funeral-benediction/"
 
+---
 This is the benediction from a funeral service that I officiated today:
 
 In our blindness,  

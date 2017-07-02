@@ -1,12 +1,12 @@
 ---
-date: 2015-03-03T07:29:05Z
+date: '2015-03-03T07:29:05Z'
 tags:
 - prayer
 - religion
 title: Prayer for Lent 2
-url: /2015/03/03/prayer-for-lent-2/
----
+url: "/2015/03/03/prayer-for-lent-2/"
 
+---
 I see a man  
 sleeping on a bench  
 in the cold,

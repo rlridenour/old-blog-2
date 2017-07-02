@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-02-14T20:23:52Z
+date: '2016-02-14T20:23:52Z'
 tags:
 - prayer
 - religion
 title: Prayer for New Life
-url: /2016/02/14/prayer-for-new-life/
----
+url: "/2016/02/14/prayer-for-new-life/"
 
+---
 A prayer for the First Sunday of Lent:
 
 Father,

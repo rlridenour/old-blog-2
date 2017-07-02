@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-01-30T18:53:13Z
+date: '2016-01-30T18:53:13Z'
 tags:
 - prayer
 - religion
 title: Dancing Before God
-url: /2016/01/30/dancing-before-god/
----
+url: "/2016/01/30/dancing-before-god/"
 
+---
 After reflecting on my time dancing during the service at Koinonia Baptist Church in Tamale, Ghana. There are pictures, there might even be some video.
 
 God of joy,

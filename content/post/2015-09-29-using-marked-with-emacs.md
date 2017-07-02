@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-09-29T15:22:12Z
+date: '2015-09-29T15:22:12Z'
 tags:
 - emacs
 - markdown
 title: Using Marked with Emacs
-url: /2015/09/29/using-marked-with-emacs/
----
+url: "/2015/09/29/using-marked-with-emacs/"
 
+---
 It's time to revisit a subject I covered in 2014, using Emacs to open a Markdown file in [Marked][marked], an excellent Markdown previewer for OS X.[^1] I have used two different methods of opening files in Marked from Emacs, both of which have respective advantages.
 
 The first is a function expressly for opening files in [Marked][marked]. Add the following code to your emacs init file, and then press "Control-c m" to open the current file in Marked.

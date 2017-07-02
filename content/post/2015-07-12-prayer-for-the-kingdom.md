@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-12T18:34:28Z
+date: '2015-07-12T18:34:28Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Kingdom
-url: /2015/07/12/prayer-for-the-kingdom/
----
+url: "/2015/07/12/prayer-for-the-kingdom/"
 
+---
 God of Hope,
 
 My lips say,  

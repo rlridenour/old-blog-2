@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T08:24:48Z
-tags: 
+date: '2015-01-13T08:24:48Z'
+tags:
 - prayer
 title: Fourth Sunday of Advent
-url: /2015/01/13/fourth-sunday-of-advent/
----
+url: "/2015/01/13/fourth-sunday-of-advent/"
 
+---
 Sometimes it seems  
 like the world  
 is filled  

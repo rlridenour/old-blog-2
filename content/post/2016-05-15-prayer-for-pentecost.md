@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-05-15T16:10:34Z
+date: '2016-05-15T16:10:34Z'
 tags:
 - prayer
 - religion
 title: Prayer for Pentecost
-url: /2016/05/15/prayer-for-pentecost/
----
+url: "/2016/05/15/prayer-for-pentecost/"
 
+---
 God of Pentecost,
 
 We seek the burning  

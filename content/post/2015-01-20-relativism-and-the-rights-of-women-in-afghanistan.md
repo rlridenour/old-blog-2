@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T17:16:00Z
+date: '2015-01-20T17:16:00Z'
 tags:
 - ethics
 title: Relativism and the Rights of Women in Afghanistan
-url: /2015/01/20/relativism-and-the-rights-of-women-in-afghanistan/
----
+url: "/2015/01/20/relativism-and-the-rights-of-women-in-afghanistan/"
 
+---
 ## Cultural Relativism
 
 For many of those that hold the position, cultural relativism is motivated by a belief that we should be tolerant of the moral beliefs of other cultures. Most of the time, this is expressed in a way that is simply inconsistent, that is, given that there are no objective, universal moral truths, we *ought* to be tolerant of the moral beliefs of other cultures. Unfortunately, one cannot consistently assert both that there are no objective, universal, moral truths and that we have a moral obligation to be tolerant, especially since our culture is often intolerant.

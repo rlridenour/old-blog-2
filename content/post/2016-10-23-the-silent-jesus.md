@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-10-23T07:31:01Z
+date: '2016-10-23T07:31:01Z'
 tags:
 - prayer
 - religion
 title: The Silent Jesus
-url: /2016/10/23/the-silent-jesus/
----
+url: "/2016/10/23/the-silent-jesus/"
 
+---
 God of Grace,
 
 When Jesus was offered   

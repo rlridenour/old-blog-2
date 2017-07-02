@@ -1,12 +1,12 @@
 ---
-date: 2015-02-18T06:19:46Z
+date: '2015-02-18T06:19:46Z'
 tags:
 - prayer
 - religion
 title: Ash Wednesday Prayer
-url: /2015/02/18/ash-wednesday-prayer/
----
+url: "/2015/02/18/ash-wednesday-prayer/"
 
+---
 Lord, have mercy,  
 for I have heard the gentle voice of God,  
 yet speak to others with words that hurt and destroy.

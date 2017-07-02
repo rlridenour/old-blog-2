@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T16:46:00Z
-tags: [prayer]
+date: '2015-01-20T16:46:00Z'
+tags:
+- prayer
 title: Christmas Prayer
-url: /2015/01/20/christmas-prayer/
----
+url: "/2015/01/20/christmas-prayer/"
 
+---
 This was a prayer I delivered at NorthHaven Church in Norman for the Christmas Day service on December 25, 2011. 
 
 Gracious Father,

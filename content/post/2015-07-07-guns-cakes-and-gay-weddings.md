@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-07-07T11:10:20Z
+date: '2015-07-07T11:10:20Z'
 tags:
 - religion
 - ethics
 title: Guns, Cakes, and Gay Weddings
-url: /2015/07/07/guns-cakes-and-gay-weddings/
----
+url: "/2015/07/07/guns-cakes-and-gay-weddings/"
 
+---
 Internet memes rarely constitute a high level of discourse, but they can sometimes prompt interesting conversations. This morning, a friend posted
 one that read,
 

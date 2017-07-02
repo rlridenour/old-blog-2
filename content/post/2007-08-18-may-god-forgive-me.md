@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-08-18T07:23:52Z
+date: '2007-08-18T07:23:52Z'
 tags:
 - army
 - iraq
 title: May God Forgive Me
-url: /2007/08/18/may-god-forgive-me/
----
+url: "/2007/08/18/may-god-forgive-me/"
 
+---
 <p>I may have committed the unpardonable sin. I threw two boxes of books in the dumpster. Or more accurately, I had the sergeant throw two boxes of books in the dumpster. This is the Army, after all.</p>
 <p>Before I got here, I think I have only thrown away one book in my entire life. It was a copy of William Peter Blatty's book,  <em>The Exorcist,</em> that I read in high school. It scared me so badly that I couldn't bear the thought of it sitting on my bookshelf.</p>
 <p>Before I got here, I thought a nice thing to do would be to have people send books and open up a library in my office. Evidently, I was not the first person to have that idea. When I took over the office, there was already a bookcase with five shelves, each shelf completely full with books stacked three deep. I have more books than anyone could read in the year, especially on our duty schedule.</p>

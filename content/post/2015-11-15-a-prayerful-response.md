@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-15T19:55:16Z
+date: '2015-11-15T19:55:16Z'
 tags:
 - prayer
 - religion
 title: A Prayerful Response
-url: /2015/11/15/a-prayerful-response/
----
+url: "/2015/11/15/a-prayerful-response/"
 
+---
 *As we mourn for the lives lost this week in Paris, Lord, hear our prayer.*
 
 Almighty God,

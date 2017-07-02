@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-21T15:10:22Z
+date: '2015-06-21T15:10:22Z'
 tags:
 - prayer
 - religion
 title: The Vanity of Our Hope
-url: /2015/06/21/the-vanity-of-our-hope/
----
+url: "/2015/06/21/the-vanity-of-our-hope/"
 
+---
 A reflection on the lives lost this week in Charleston, and the responsibility that we bear, either explicitly or implicitly:
 
 God of justice,

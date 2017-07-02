@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-03-13T19:12:06Z
+date: '2016-03-13T19:12:06Z'
 tags:
 - prayer
 - religion
 title: Rejecting Exclusion
-url: /2016/03/13/rejecting-exclusion/
----
+url: "/2016/03/13/rejecting-exclusion/"
 
+---
 Blessed Lord,
 
 You warned us of a broad path   

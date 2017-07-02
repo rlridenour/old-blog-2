@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-03-01T16:07:32Z
+date: '2017-03-01T16:07:32Z'
 tags:
 - prayer
 - religion
 title: Prayer for Ash Wednesday
-url: /2017/03/01/prayer-for-ash-wednesday/
----
+url: "/2017/03/01/prayer-for-ash-wednesday/"
 
+---
 Holy God,
 
 Shall this year be like the past,  

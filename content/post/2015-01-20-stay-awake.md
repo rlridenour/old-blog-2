@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-20T16:13:29Z
-tags: [quotes]
+date: '2015-01-20T16:13:29Z'
+tags:
+- quotes
 title: Stay Awake
-url: /2015/01/20/stay-awake/
----
+url: "/2015/01/20/stay-awake/"
 
+---
 <blockquote class="big">
 
 <p>Disciple: "Is there anything I can do to make myself enlightened?"</p>

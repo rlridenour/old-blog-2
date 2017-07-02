@@ -1,14 +1,11 @@
 +++
-title = "Content tagged as 'Academic'"
-date = "2017-01-01T00:00:00"
-math = false
+date = "2017-01-01T00:00:00Z"
 highlight = false
-
-# Optional featured image (relative to `static/img/` folder).
+math = false
+title = "Content tagged as 'Academic'"
 [header]
-image = "headers/bubbles-wide.jpg"
 caption = ""
+image = "headers/bubbles-wide.jpg"
 
 +++
-
 Here is a list of all the content that has been tagged as *academic*.

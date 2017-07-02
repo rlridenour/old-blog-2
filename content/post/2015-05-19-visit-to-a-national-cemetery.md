@@ -1,11 +1,10 @@
 ---
 comments: true
-date: 2015-05-19T16:48:25Z
+date: '2015-05-19T16:48:25Z'
 tags:
 - poetry
 title: Visit to a National Cemetery
-url: /2015/05/19/visit-to-a-national-cemetery/
----
+url: "/2015/05/19/visit-to-a-national-cemetery/"
 
 ![Military Cemetery](/img/2015/cemetery.jpg)
 

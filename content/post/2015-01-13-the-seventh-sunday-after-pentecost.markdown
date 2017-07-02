@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:59:26Z
-tags: [prayer]
+date: '2015-01-13T13:59:26Z'
+tags:
+- prayer
 title: The Seventh Sunday After Pentecost
-url: /2015/01/13/the-seventh-sunday-after-pentecost/
----
+url: "/2015/01/13/the-seventh-sunday-after-pentecost/"
 
+---
 We say that God helps those who help themselves,  
 that cleanliness is next to godliness,  
 that money is the root of all evil,  

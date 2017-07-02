@@ -1,11 +1,11 @@
 ---
-date: 2015-03-15T07:30:33Z
+date: '2015-03-15T07:30:33Z'
 tags:
 - religion
 title: The Cross-Shattered Christ, Chapter 3
-url: /2015/03/15/crucified-god-chapter-3/
----
+url: "/2015/03/15/crucified-god-chapter-3/"
 
+---
 Kierkegaard's *Fear and Trembling* focuses on Abraham, an example of what Kierkegaard calls a "Knight of Faith." When I asked for other examples, someone suggested Mary, the mother of Jesus. At the time, I was skeptical, because it did not seem to me that Mary had an opportunity to reject God's plan; the angel Mary announced that Mary would conceive, and never asked Mary if she wanted to cooperate in this endeavor.
 
 My mistake, as if often the case, is to think of Mary only as the young girl in the Christmas story, and neglect the woman that reared a child whom she surely could never keep — anguish foreshadowed by Simeon's remark by Simeon's cryptic remark to Mary, "A sword will pierce your own soul too." Mary, though, despite her anguish, has hope, as we must also. As Hauerwas states:

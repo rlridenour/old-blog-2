@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-04-27T18:21:56Z
+date: '2015-04-27T18:21:56Z'
 tags:
 - prayer
 - religion
 title: Prayer for Silence
-url: /2015/04/27/prayer-for-silence/
----
+url: "/2015/04/27/prayer-for-silence/"
 
+---
 Holy God,
 
 There are times when  

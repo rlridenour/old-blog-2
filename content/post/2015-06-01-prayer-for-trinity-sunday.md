@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-06-01T10:17:55Z
+date: '2015-06-01T10:17:55Z'
 tags:
 - prayer
 - religion
 title: Prayer for Trinity Sunday
-url: /2015/06/01/prayer-for-trinity-sunday/
----
+url: "/2015/06/01/prayer-for-trinity-sunday/"
 
+---
 Triune God,
 
 In those times  

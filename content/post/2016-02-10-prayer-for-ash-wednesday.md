@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-02-10T20:50:24Z
+date: '2016-02-10T20:50:24Z'
 tags:
 - prayer
 - religion
 title: Prayer for Ash Wednesday
-url: /2016/02/10/prayer-for-ash-wednesday/
----
+url: "/2016/02/10/prayer-for-ash-wednesday/"
 
+---
 Holy God,
 
 You call us into the night,  

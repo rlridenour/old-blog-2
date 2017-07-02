@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-11-15T17:18:41Z
+date: '2015-11-15T17:18:41Z'
 tags:
 - emacs
 - latex
 title: LaTeX-Skim Sync
-url: /2015/11/15/latexskim-sync/
----
+url: "/2015/11/15/latexskim-sync/"
 
+---
 I recently started using John Wiegley's [use-package](https://github.com/jwiegley/use-package ) for my Emacs init files. For Auctex, I used
 
 {{< highlight lisp >}}

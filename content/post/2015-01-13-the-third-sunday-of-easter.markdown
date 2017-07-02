@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T16:44:56Z
-tags: [prayer]
+date: '2015-01-13T16:44:56Z'
+tags:
+- prayer
 title: the Third Sunday of Easter
-url: /2015/01/13/the-third-sunday-of-easter/
----
+url: "/2015/01/13/the-third-sunday-of-easter/"
 
+---
 *On the Tenth Anniversary of NorthHaven Church*
 
 For those who have given much  

@@ -1,12 +1,12 @@
 ---
-date: 2015-02-24T16:06:47Z
+date: '2015-02-24T16:06:47Z'
 tags:
 - prayer
 - religion
 title: Prayer for Lent 1
-url: /2015/02/24/lent-1-prayer/
----
+url: "/2015/02/24/lent-1-prayer/"
 
+---
 Lord Jesus,  
 
 As I find myself  

@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T13:54:00Z
-tags: [prayer]
+date: '2015-01-13T13:54:00Z'
+tags:
+- prayer
 title: The Ninth Sunday After Pentecost
-url: /2015/01/13/the-ninth-sunday-after-pentecost/
----
+url: "/2015/01/13/the-ninth-sunday-after-pentecost/"
 
+---
 When we discuss the concept of rights in political philosophy, I confess that I feel conflicted. On one hand, the recognition of, and commitment to, the rights of others is essential to treating them with the dignity that is due to one created in the image of God. On the other hand, the constant practice of demanding my own rights does not seem consistent with the claim to follow the one that Paul described in Philippians 2:
 
 

@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-01-20T00:00:00Z
+date: '2015-01-20T00:00:00Z'
 tags:
 - metaphysics
 - quotes
 title: Permanent Impermanence
-url: /2015/01/20/permanent-impermanence/
----
+url: "/2015/01/20/permanent-impermanence/"
 
+---
 >As I wrote recently, everything in existence is permanently impermanent. 
 >[Patrick Rhone](http://minimalmac.com/post/14973202531/the-only-standard-is-impermanence Minimal Mac)
 

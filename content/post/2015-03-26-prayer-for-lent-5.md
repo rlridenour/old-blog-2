@@ -1,12 +1,12 @@
 ---
-date: 2015-03-26T15:40:07Z
+date: '2015-03-26T15:40:07Z'
 tags:
 - prayer
 - religion
 title: Prayer for Lent 5
-url: /2015/03/26/prayer-for-lent-5/
----
+url: "/2015/03/26/prayer-for-lent-5/"
 
+---
 A woman asked Jesus  
 to heal her daughter,  
 and Jesus said nothing.

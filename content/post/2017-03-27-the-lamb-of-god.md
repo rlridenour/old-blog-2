@@ -1,12 +1,11 @@
 ---
 comments: true
-date: 2017-03-27T13:41:31Z
+date: '2017-03-27T13:41:31Z'
 tags:
 - prayer
 - religion
 title: The Lamb of God
-url: /2017/03/27/the-lamb-of-god/
----
+url: "/2017/03/27/the-lamb-of-god/"
 
 ![Lamb of God](/img/2017/lamb.jpg)
 

@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-17T20:07:22Z
+date: '2015-01-17T20:07:22Z'
 tags:
 - jekyll
 title: Why Jekyll?
-url: /2015/01/17/why-jekyll/
----
+url: "/2015/01/17/why-jekyll/"
 
+---
 ## Same Old Story ##
 
 It must be that time of year again — the time that I do something new with the blog. I'm not sure that I could remember all of the tools that I've used to build web sites in the past:

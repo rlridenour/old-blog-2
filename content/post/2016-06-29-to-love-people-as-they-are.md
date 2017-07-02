@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-06-29T15:58:56Z
+date: '2016-06-29T15:58:56Z'
 tags:
 - prayer
 - religion
 title: To Love People As They Are
-url: /2016/06/29/to-love-people-as-they-are/
----
+url: "/2016/06/29/to-love-people-as-they-are/"
 
+---
 God of grace,
 
 You stand and knock,  

@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T08:18:12Z
-tags: 
+date: '2015-01-13T08:18:12Z'
+tags:
 - prayer
 title: A Prayer for Wellness
-url: /2015/01/13/a-prayer-for-wellness/
----
+url: "/2015/01/13/a-prayer-for-wellness/"
 
+---
 Jesus saw the lame man at the pool,  
 and asked, "Do you want to be made well?"  
 Instead of an answer,  

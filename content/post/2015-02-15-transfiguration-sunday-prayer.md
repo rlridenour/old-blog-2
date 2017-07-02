@@ -1,12 +1,12 @@
 ---
-date: 2015-02-15T16:56:43Z
+date: '2015-02-15T16:56:43Z'
 tags:
 - prayer
 - religion
 title: Transfiguration Sunday Prayer
-url: /2015/02/15/transfiguration-sunday-prayer/
----
+url: "/2015/02/15/transfiguration-sunday-prayer/"
 
+---
 Father,
 
 In the blindness of our arrogance,  

@@ -1,11 +1,11 @@
 ---
-date: 2015-02-14T08:21:43Z
+date: '2015-02-14T08:21:43Z'
 tags:
 - poetry
 title: Poem for my Valentine
-url: /2015/02/14/poem-for-my-valentine/
----
+url: "/2015/02/14/poem-for-my-valentine/"
 
+---
 Some people tell me  
 that I look through  
 rose colored glasses,  

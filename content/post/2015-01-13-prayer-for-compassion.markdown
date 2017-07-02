@@ -1,11 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T14:29:32Z
-tags: [prayer]
+date: '2015-01-13T14:29:32Z'
+tags:
+- prayer
 title: Prayer for Compassion
-url: /2015/01/13/prayer-for-compassion/
----
+url: "/2015/01/13/prayer-for-compassion/"
 
+---
 ## For the Second Sunday of Pentecost
 
 Isaiah spoke  

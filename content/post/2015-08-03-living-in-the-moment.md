@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-08-03T08:19:59Z
+date: '2015-08-03T08:19:59Z'
 tags:
 - prayer
 - religion
 title: Living in the Moment
-url: /2015/08/03/living-in-the-moment/
----
+url: "/2015/08/03/living-in-the-moment/"
 
+---
 Lord Jesus,
 
 My mind is filled with  

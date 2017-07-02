@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2017-02-23T14:31:57Z
+date: '2017-02-23T14:31:57Z'
 tags:
 - prayer
 - religion
 title: Give Me Words of Grace
-url: /2017/02/23/give-me-words-of-grace/
----
+url: "/2017/02/23/give-me-words-of-grace/"
 
+---
 Thinking a lot about the power of language this week. Here's my prayer for the week:
 
 In arrogant blindness,  

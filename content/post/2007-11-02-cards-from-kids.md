@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2007-11-02T15:56:04Z
+date: '2007-11-02T15:56:04Z'
 tags:
 - army
 - iraq
 title: Cards from Kids
-url: /2007/11/02/cards-from-kids/
----
+url: "/2007/11/02/cards-from-kids/"
 
+---
 <p>Someone put a bunch of Veterans' Day cards on my desk. They're all handmade by some kids at an elementary school. I've picked out a few:</p>
 <p>Joshua writes,</p>
 <p><em>"I wish you luck. I hope you win. I hope you don't die."</em></p>

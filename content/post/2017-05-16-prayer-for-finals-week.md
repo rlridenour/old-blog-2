@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2017-05-16T14:27:10Z
+date: '2017-05-16T14:27:10Z'
 tags:
-- null
+- 
 title: Prayer for Finals Week
-url: /2017/05/16/prayer-for-finals-week/
----
+url: "/2017/05/16/prayer-for-finals-week/"
 
+---
 It is finals week here at Oklahoma Baptist University. Here is a prayer for students:
 
 Dear students,

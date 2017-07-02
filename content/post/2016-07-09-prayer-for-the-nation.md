@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2016-07-09T20:45:58Z
+date: '2016-07-09T20:45:58Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Nation
-url: /2016/07/09/prayer-for-the-nation/
----
+url: "/2016/07/09/prayer-for-the-nation/"
 
+---
 Eternal God, you whose image lies in the hearts of all people,  
 Hear our prayer, as we pray for our nation.
 

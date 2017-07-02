@@ -1,13 +1,13 @@
 ---
 comments: true
-date: 2015-12-22T15:59:59Z
+date: '2015-12-22T15:59:59Z'
 tags:
 - prayer
 - religion
 title: Prayer for the Fourth Sunday of Advent
-url: /2015/12/22/prayer-for-the-fourth-sunday-of-advent/
----
+url: "/2015/12/22/prayer-for-the-fourth-sunday-of-advent/"
 
+---
 Holy God,
 
 When a new emperor   

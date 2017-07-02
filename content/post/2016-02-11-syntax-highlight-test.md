@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2016-02-11T05:35:56Z
+date: '2016-02-11T05:35:56Z'
 tags:
 - jekyll
 title: Syntax Highlighting Test
-url: /2016/02/11/syntax-highlight-test/
----
+url: "/2016/02/11/syntax-highlight-test/"
 
+---
 Jekyll changed from Pygments to Rouge for syntax highlighting. Here is my LaTeX article format:
 
 ``` tex

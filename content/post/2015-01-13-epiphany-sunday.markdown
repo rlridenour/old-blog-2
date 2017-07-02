@@ -1,12 +1,12 @@
 ---
 comments: true
-date: 2015-01-13T08:12:53Z
-tags: 
+date: '2015-01-13T08:12:53Z'
+tags:
 - prayer
 title: Epiphany Sunday
-url: /2015/01/13/epiphany-sunday/
----
+url: "/2015/01/13/epiphany-sunday/"
 
+---
 Brian Partridge's sermon this past Sunday was a perfect antidote to our annual festival of accumulation thinly disguised as a celebration of the birth of Christ. So, I guess I should stop browsing ebay.  Here is the prayer for the week:
 
 Holy God,
