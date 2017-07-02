@@ -5,8 +5,8 @@ tags:
 - poetry
 title: Visit to a National Cemetery
 url: "/2015/05/19/visit-to-a-national-cemetery/"
----
 
+---
 ![Military Cemetery](/img/2015/cemetery.jpg)
 
 *A poem for Memorial Day, 2015, written after conducting a funeral at the Dallas-Fort Worth National Cemetery, April 23, 2015.*

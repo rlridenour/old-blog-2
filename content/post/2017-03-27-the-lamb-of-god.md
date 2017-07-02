@@ -6,8 +6,8 @@ tags:
 - religion
 title: The Lamb of God
 url: "/2017/03/27/the-lamb-of-god/"
----
 
+---
 ![Lamb of God](/img/2017/lamb.jpg)
 
 (Painting: *Lamb* by Francisco Zurbarán)[^1]
