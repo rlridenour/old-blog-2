@@ -1,4 +1,4 @@
----
+r---
 comments: true
 date: 2009-08-29T22:54:53Z
 tags:
@@ -9,4 +9,4 @@ url: /2009/08/29/the-habitat-for-humanity-build-in-norman-im/
 
 <p>The Habitat for Humanity build in Norman. I'm getting lots of advice from David and Mitch.</p>
 
-![Habitat Build](/images/2009/habitat.jpg)
+![Habitat Build](/img/2009/habitat.jpg)
