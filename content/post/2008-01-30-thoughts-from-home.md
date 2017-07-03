@@ -1,11 +1,18 @@
 ---
-comments: true
+comments: false
 date: '2008-01-30T16:03:09Z'
 tags:
 - army
 - iraq
 title: Thoughts from Home
 url: "/2008/01/30/thoughts-from-home/"
+markup: ''
+categories: []
+math: false
+highlight: false
+header:
+  image: ''
+  caption: ''
 draft: true
 
 ---
