@@ -2,7 +2,8 @@
 comments: true
 date: '2010-03-29T15:50:08Z'
 tags:
-- 
+- quotes
+- philosophy
 title: Please!
 url: "/2010/03/29/people-have-always-wanted-philosophers-to-provide/"
 

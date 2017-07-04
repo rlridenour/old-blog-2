@@ -5,7 +5,6 @@ tags:
 - quotes
 title: Exactly
 url: "/2011/06/14/we-should-have-much-peace-if-we-would-not-busy/"
-
 ---
 <blockquote class="big">We should have much peace if we would not busy ourselves with the sayings and doings of others.</blockquote>
 

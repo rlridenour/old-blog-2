@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T17:12:18Z'
 tags:
-- 
+- mac
 title: Reinstalling Apps from Mac App Store
 url: "/2015/01/13/reinstalling-apps-from-mac-app-store/"
 

@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-20T16:26:44Z'
 tags:
-- 
+- religion
 title: Who Is My Enemy?
 url: "/2015/01/20/who-is-my-enemy/"
 

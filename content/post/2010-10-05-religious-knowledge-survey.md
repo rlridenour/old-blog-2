@@ -2,7 +2,7 @@
 comments: true
 date: '2010-10-05T20:56:11Z'
 tags:
-- 
+- religion
 title: Religious Knowledge Survey
 url: "/2010/10/05/religious-knowledge-survey/"
 

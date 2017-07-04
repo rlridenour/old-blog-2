@@ -2,7 +2,8 @@
 comments: true
 date: '2015-01-13T13:05:33Z'
 tags:
-- 
+- prayer
+- religion
 title: Twenty-Second Sunday After Pentecost
 url: "/2015/01/13/twenty-second-sunday-after-pentecost/"
 

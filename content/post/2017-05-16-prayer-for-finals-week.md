@@ -2,7 +2,8 @@
 comments: true
 date: '2017-05-16T14:27:10Z'
 tags:
-- 
+- prayer
+- religion
 title: Prayer for Finals Week
 url: "/2017/05/16/prayer-for-finals-week/"
 

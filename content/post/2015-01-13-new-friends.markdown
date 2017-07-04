@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T14:26:28Z'
 tags:
-- 
+- misc
 title: New Friends
 url: "/2015/01/13/new-friends/"
 

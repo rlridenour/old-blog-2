@@ -2,7 +2,7 @@
 comments: true
 date: '2009-09-04T18:43:38Z'
 tags:
-- 
+- misc
 title: Happy Labor Day!
 url: "/2009/09/04/happy-labor-day/"
 

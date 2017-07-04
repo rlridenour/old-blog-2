@@ -2,7 +2,7 @@
 comments: true
 date: '2009-10-14T12:15:54Z'
 tags:
-- 
+- religion
 title: Burning Bibles?
 url: "/2009/10/14/burning-bibles/"
 

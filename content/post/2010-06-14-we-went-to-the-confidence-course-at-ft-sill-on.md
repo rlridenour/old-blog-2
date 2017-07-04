@@ -2,7 +2,7 @@
 comments: true
 date: '2010-06-14T16:51:46Z'
 tags:
-- 
+- army
 title: Bruised for the Gospel
 url: "/2010/06/14/we-went-to-the-confidence-course-at-ft-sill-on/"
 

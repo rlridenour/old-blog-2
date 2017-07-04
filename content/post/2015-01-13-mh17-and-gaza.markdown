@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T13:37:20Z'
 tags:
-- 
+- misc
 title: MH17 and Gaza
 url: "/2015/01/13/mh17-and-gaza/"
 

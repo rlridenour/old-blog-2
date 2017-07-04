@@ -2,7 +2,8 @@
 comments: true
 date: '2009-08-25T19:44:37Z'
 tags:
-- 
+- religion
+- quotes
 title: Ellul on Prayer
 url: "/2009/08/25/prayer-holds-together-the-shattered-fragments-of/"
 

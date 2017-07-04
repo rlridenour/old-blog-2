@@ -2,7 +2,7 @@
 comments: true
 date: '2016-01-30T19:25:38Z'
 tags:
-- 
+- misc
 title: The Body Just Quits
 url: "/2016/01/30/the-body-just-quits/"
 

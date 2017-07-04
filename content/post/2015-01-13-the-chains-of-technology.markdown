@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T13:08:58Z'
 tags:
-- 
+- technology
 title: The Chains of Technology
 url: "/2015/01/13/the-chains-of-technology/"
 

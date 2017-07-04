@@ -2,7 +2,8 @@
 comments: true
 date: '2009-08-28T18:22:14Z'
 tags:
-- 
+- aesthetics
+- political
 title: Triumph of the Will
 url: "/2009/08/28/triumph-of-the-will/"
 

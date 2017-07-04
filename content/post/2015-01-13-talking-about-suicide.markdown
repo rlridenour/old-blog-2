@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T13:48:52Z'
 tags:
-- 
+- ethics
 title: Talking About Suicide
 url: "/2015/01/13/talking-about-suicide/"
 

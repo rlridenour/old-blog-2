@@ -2,7 +2,7 @@
 comments: true
 date: '2009-09-16T20:47:31Z'
 tags:
-- 
+- teaching
 title: Intro Essay 1
 url: "/2009/09/16/intro-essay-1/"
 

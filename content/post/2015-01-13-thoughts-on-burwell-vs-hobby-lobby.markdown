@@ -2,7 +2,8 @@
 comments: true
 date: '2015-01-13T14:18:16Z'
 tags:
-- 
+- religion
+- political
 title: Thoughts on Burwell vs. Hobby Lobby
 url: "/2015/01/13/thoughts-on-burwell-vs-hobby-lobby/"
 

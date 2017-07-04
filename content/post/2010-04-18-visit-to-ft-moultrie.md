@@ -2,7 +2,7 @@
 comments: true
 date: '2010-04-18T20:11:33Z'
 tags:
-- 
+- army
 title: Visit to Ft. Moultrie
 url: "/2010/04/18/visit-to-ft-moultrie/"
 

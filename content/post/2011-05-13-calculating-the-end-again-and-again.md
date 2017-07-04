@@ -2,7 +2,7 @@
 comments: true
 date: '2011-05-13T12:56:44Z'
 tags:
-- 
+- religion
 title: Calculating the End — Again and Again
 url: "/2011/05/13/calculating-the-end-again-and-again/"
 

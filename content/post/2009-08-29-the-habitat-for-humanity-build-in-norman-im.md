@@ -1,8 +1,4 @@
-+++
-title = ""
-
-+++
-r---
+---
 comments: true
 date: '2009-08-29T22:54:53Z'
 tags:

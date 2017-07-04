@@ -2,7 +2,7 @@
 comments: true
 date: '2009-10-21T21:09:00Z'
 tags:
-- 
+- critical-thinking
 title: Car Accidents and Conditional Probabilities
 url: "/2009/10/21/car-accidents-and-conditional-probabilities/"
 

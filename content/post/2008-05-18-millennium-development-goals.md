@@ -2,8 +2,9 @@
 date: '2008-05-18T08:57:46Z'
 title: Millennium Development Goals
 url: "/2008/05/18/millennium-development-goals/"
-
+tags: ["religion", "ethics"]
 ---
+
 <p>Yesterday, Mitch Randall, pastor of <a href="http://www.northhavenchurch.net/"> NorthHaven Church</a> in Norman, preached on Christianity and Justice. In his message, he discussed the Millennium Development Goals, seven goals that have been adopted by the world's countries, including the United States. It is legitimate for the church to ask what we can do to help our own nation achieve its stated goals.</p>
 <p>The eight goals are outlined on the <a href="http://www.un.org/millenniumgoals/index.html"> United Nations Website</a>:</p>
 <p>1. Eradicate extreme poverty and hunger<br />

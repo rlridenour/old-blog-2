@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - Critical Thinking
 comments: true
 date: '2015-01-20T10:09:00Z'

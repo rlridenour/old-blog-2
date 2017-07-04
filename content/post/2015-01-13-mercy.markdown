@@ -2,7 +2,7 @@
 comments: true
 date: '2015-01-13T14:10:53Z'
 tags:
-- 
+- religion
 title: Mercy, the Law, and Les Miserables
 url: "/2015/01/13/mercy/"
 

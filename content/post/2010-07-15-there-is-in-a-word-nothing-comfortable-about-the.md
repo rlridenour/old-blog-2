@@ -2,7 +2,7 @@
 comments: true
 date: '2010-07-15T18:32:59Z'
 tags:
-- 
+- religion
 title: Merton on Scripture
 url: "/2010/07/15/there-is-in-a-word-nothing-comfortable-about-the/"
 

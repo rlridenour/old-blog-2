@@ -2,7 +2,7 @@
 comments: true
 date: '2009-10-13T20:59:00Z'
 tags:
-- 
+- religion
 title: Schusterman Lecture
 url: "/2009/10/13/schusterman-lecture/"
 

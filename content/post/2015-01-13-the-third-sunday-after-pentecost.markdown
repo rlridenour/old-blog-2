@@ -2,7 +2,8 @@
 comments: true
 date: '2015-01-13T14:23:54Z'
 tags:
-- 
+- prayer
+- religion
 title: The Third Sunday After Pentecost
 url: "/2015/01/13/the-third-sunday-after-pentecost/"
 
