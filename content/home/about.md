@@ -7,17 +7,6 @@ widget = "about"
 course = "Ph.D. in Philosophy"
 institution = "University of Oklahoma"
 year = 2000
-[[education.courses]]
-course = "M.A. in Philosophy"
-institution = "University of Oklahoma"
-year = 1993
-[[education.courses]]
-course = "B.A. in Philosophy"
-institution = "University of Oklahoma"
-year = 1991
-[[education.courses]]
-course = "Graduate Study in Theology"
-institution = "Southwestern Baptist Theological Seminary"
 [interests]
 interests = ["Existentialism", "Social and Political Philosophy", "Philosophy of Religion"]
 
