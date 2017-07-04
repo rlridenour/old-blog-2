@@ -2,7 +2,9 @@
 date: '2008-11-01T15:06:55Z'
 title: Moral Relativism
 url: "/2008/11/01/moral-relativism/"
-tags: ["ethics"]
+tags:
+- ethics
+
 ---
 <p>In Ethics, Friday, I sketched out an argument against moral relativism that appeals to the standard argument <em>for</em> moral relativism. The following is a typical argument for moral relativism:</p>
 <ol style="list-style-type:decimal;">

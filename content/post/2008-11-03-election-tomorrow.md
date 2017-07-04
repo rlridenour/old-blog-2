@@ -4,5 +4,6 @@ title: Election Tomorrow
 url: "/2008/11/03/election-tomorrow/"
 tags:
 - politics
+
 ---
 <p>Go vote!</p>

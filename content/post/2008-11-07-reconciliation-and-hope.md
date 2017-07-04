@@ -5,6 +5,7 @@ url: "/2008/11/07/reconciliation-and-hope/"
 tags:
 - politics
 - ethics
+
 ---
 <p>The year that I was born, 1963, was marked by these significant events:</p>
 <ul>

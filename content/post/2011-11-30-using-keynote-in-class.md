@@ -2,7 +2,9 @@
 date: '2011-11-30T11:52:03Z'
 title: Using Keynote in Class
 url: "/2011/11/30/using-keynote-in-class/"
-tags: ["teaching"]
+tags:
+- teaching
+
 ---
 <p>I have been using Keynote for iOS for lecture presentations in classes this semester. The process has been so easy, that this is the first semester that I have consistently used slide presentations during lectures. Most of my presentations were initially prepared on the Mac, then imported into Keynote for iOS on the iPad. Keynote for iOS seems to be fairly adept at importing transitions and effects. My only complaint is that the default font used in my preferred theme is different in the iOS version than in the desktop version of Keynote. </p>
 <p>I use the Remote app on the iPhone as a presentation controller. I was a bit apprehensive at first. I have a Bluetooth presentation controller that I preferred to use in the past. I like having the hardware buttons for moving through the slides. That way, I could simply feel the button, change the slide, and never have to look at the controller. I find that I can do the same thing with the Remote app, however. Slide changes occur when the presenter swipes a finger across the screen, exactly like navigating through screens on an iOS device. I found that it is very natural to hold the phone in one hand, and swipe the screen with the index finger of that same hand to change the slide. A swipe in the other direction moves to the previous slide. There is no need to look at the phone to change slides. It is easy, natural, and I have yet to drop the phone after a semester's worth of lectures. I can glance at the phone to see the next slide in the queue, a handy feature that my usual remote lacks.</p>
