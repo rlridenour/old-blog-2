@@ -1,13 +1,12 @@
 +++
 categories = []
 comments = false
-date = "2017-07-04T21:15:39+00:00"
+date = "2017-07-04T21:15:39Z"
 highlight = true
 markup = ""
 math = false
 tags = ["prayer", "religion"]
 title = "Prayer to See What Could Be"
-type = ""
 url = ""
 [header]
 caption = ""
