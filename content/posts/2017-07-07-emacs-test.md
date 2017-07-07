@@ -1,5 +1,5 @@
 ---
-title: Emacs Test
+title: "Emacs Test"
 draft: false
 categories: []
 tags:
