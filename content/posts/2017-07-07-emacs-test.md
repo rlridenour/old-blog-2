@@ -11,9 +11,6 @@ highlight: true
 markup: ""
 math: false
 url: ""
-[header]
-caption: ""
-image: ""
 ---
 
 Testing Emacs workflow.
