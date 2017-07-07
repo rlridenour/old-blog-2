@@ -11,5 +11,5 @@ deploy:
         - lukevivier/gh-pages:
             gh_oauth: GIT_TOKEN
             repo: rlridenour/rlridenour.github.io
-			domain: randyridenour.net
+            domain: randyridenour.net
             basedir: public
