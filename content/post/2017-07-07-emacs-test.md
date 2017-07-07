@@ -1,12 +1,12 @@
 ---
 title: "Emacs Test"
-draft: true
+draft: false
 categories: []
 tags:
 - emacs
 - hugo
 comments: true
-date: 
+date: "2017-07-07T11:29:49"
 highlight: true
 markup: ""
 math: false
