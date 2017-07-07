@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---
 title: Emacs Test
 categories: []
@@ -13,3 +14,21 @@ url: ''
 
 ---
 Testing emacs workflow.
+=======
++++
+title = "Emacs Test"
+draft = true
+categories = []
+tags =
+- 
+comments = true
+date = 
+highlight = true
+markup = ""
+math = false
+url = ""
+[header]
+caption = ""
+image = ""
++++
+>>>>>>> Stashed changes
