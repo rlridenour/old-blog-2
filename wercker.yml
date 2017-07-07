@@ -8,7 +8,7 @@ deploy:
     steps:
         - install-packages:
             packages: git ssh-client
-        - gh-pages:
+        - lukevivier/gh-pages:
             token: GIT_TOKEN
             repo: rlridenour/rlridenour.github.io
             basedir: public
