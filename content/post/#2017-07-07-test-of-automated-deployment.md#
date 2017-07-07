@@ -1,0 +1,15 @@
+---
+title: "Test of Automated Deployment"
+draft: true
+categories: []
+tags:
+- "hugo"
+comments: true
+date: 
+highlight: true
+markup: ""
+math: false
+url: ""
+---
+
+Testing automated deployment with Wercker.
