@@ -3,5 +3,9 @@ build:
   steps:
     - install-packages:
         packages: git
-    - arjen/hugo-build:
-        theme: academic
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/gcushen/hugo-academic ./themes/academic)
+			- arjen/hugo-build:
+    theme: academic
