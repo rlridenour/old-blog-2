@@ -1,11 +1,11 @@
 ---
 title: "Test of Automated Deployment"
-draft: true
+draft: false
 categories: []
 tags:
 - "hugo"
 comments: true
-date: 
+date: "2017-07-07T16:26:51"
 highlight: true
 markup: ""
 math: false
