@@ -1,16 +1,15 @@
 ---
-title: "Emacs Test"
-draft: false
+title: Emacs Test
 categories: []
 tags:
-- "hugo"
-- "emacs"
+- hugo
+- emacs
 comments: true
-date: "2017-07-07T10:49:33"
+date: '2017-07-07T10:49:33Z'
 highlight: true
-markup: ""
+markup: ''
 math: false
-url: ""
----
+url: ''
 
+---
 Testing Emacs workflow.
