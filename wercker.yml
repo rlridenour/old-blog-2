@@ -7,5 +7,5 @@ build:
         name: download theme
         code: |
             $(git clone https://github.com/gcushen/hugo-academic ./themes/academic)
-			- arjen/hugo-build:
+            - arjen/hugo-build:
     theme: academic
