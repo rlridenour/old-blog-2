@@ -6,7 +6,7 @@ disqusShortname = "rlridenour"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 googleAnalytics = "57227029"
-publishDir = "../public"
+publishDir = "/public"
 theme = "academic"
 title = "Randy Ridenour"
 [blackfriday]
