@@ -1,21 +1,21 @@
 box: debian
 build:
-    steps:
-        - install packages:
-            packages: git
-        -script:
-            name: download theme
-            code |
-                 $(git clone https://github.com/gcushen/hugo-academic ./themes/academic)
-        - arjen/hugo-build:
+  steps:
+    - install packages:
+        packages: git
+    - script:
+       name: download theme
+       code: |
+           $(git clone https://github.com/gcushen/hugo-academic ./themes/academic)
+    - arjen/hugo-build:
             theme: academic
 
 deploy:
     steps:
-        - install-packages:
-            packages: git ssh-client
-        - lukevivier/gh-pages:
-            token: $GIT_TOKEN
-            repo: rlridenour/rlridenour.github.io
-            domain: randyridenour.net
-            basedir: public
+      - install-packages:
+          packages: git ssh-client
+      - lukevivier/gh-pages:
+         token: $GIT_TOKEN
+         repo: rlridenour/rlridenour.github.io
+         domain: randyridenour.net
+         basedir: public
