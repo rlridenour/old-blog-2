@@ -4,10 +4,9 @@ build:
     - install packages:
         packages: git
     - script:
-       name: initialize and update git submodules
+       name: download theme
        code: |
-           git submodule init
-           git submodule update --remote --recursive
+           $(git clone https://github.com/gcushen/hugo-academic ./themes/academic)
     - arjen/hugo-build:
             theme: academic
 
