@@ -1,8 +1,8 @@
 ---
 categories: []
 comments: true
-date: "2017-07-02T19:44:27Z"
-draft: true
+date: "2017-07-09T16:57:55"
+draft: false
 highlight: true
 markup: ""
 math: false
