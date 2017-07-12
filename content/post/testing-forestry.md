@@ -2,7 +2,6 @@
 categories = []
 comments = true
 date = "2017-07-12T14:25:35+00:00"
-draft = true
 highlight = true
 markup = ""
 math = false
