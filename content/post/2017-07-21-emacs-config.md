@@ -1,11 +1,11 @@
 ---
 title: "Emacs Config"
-draft: true
+draft: false
 categories: []
 tags:
 - emacs
 comments: true
-date: "2017-07-21T10:37:54"
+date: "2017-07-21T10:38:21"
 highlight: true
 markup: ""
 math: false
