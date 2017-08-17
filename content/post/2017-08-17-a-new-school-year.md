@@ -23,7 +23,7 @@ As this year's chairperson of the Faculty Council, I am privileged to open our f
 
 >As God’s chosen ones, holy and beloved, clothe yourselves with compassion, kindness, humility, meekness, and patience. Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord has forgiven you, so you also must forgive. Above all, clothe yourselves with love, which binds everything together in perfect harmony. And let the peace of Christ rule in your hearts, to which indeed you were called in the one body. And be thankful.
 
-### Prayer ###
+## Prayer ##
 
 God of hope and Lord of life,
 
