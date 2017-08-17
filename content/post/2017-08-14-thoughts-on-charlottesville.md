@@ -7,7 +7,7 @@ tags:
 - ethics
 - religion
 comments: true
-date: 
+date: "2017-08-17T12:49:42"
 highlight: true
 markup: ""
 math: false
