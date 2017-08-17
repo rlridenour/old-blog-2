@@ -13,7 +13,7 @@ math: false
 url: ""
 ---
 
-As this year's chairperson of the Faculty Council, I am privileged to open our first employee meeting with a reading from Scripture and a prayer. This year, our academic year begins one week after the horrific display of racism and violence in Charlottesville, Virginia.
+As this year's chairperson of the Faculty Council, I am privileged to open our first employee meeting with a reading from Scripture and a prayer. This year, our academic year begins one week after the horrific display of racism and violence in Charlottesville, Virginia. That event prompted my reflection on the following text.
 
 ## Colossians 3:1-15 ##
 
@@ -22,6 +22,7 @@ As this year's chairperson of the Faculty Council, I am privileged to open our f
 >Put to death, therefore, whatever in you is earthly: fornication, impurity, passion, evil desire, and greed (which is idolatry). On account of these the wrath of God is coming on those who are disobedient. These are the ways you also once followed, when you were living that life. But now you must get rid of all such things—anger, wrath, malice, slander, and abusive language from your mouth. Do not lie to one another, seeing that you have stripped off the old self with its practices and have clothed yourselves with the new self, which is being renewed in knowledge according to the image of its creator. In that renewal there is no longer Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave and free; but Christ is all and in all!
 
 >As God’s chosen ones, holy and beloved, clothe yourselves with compassion, kindness, humility, meekness, and patience. Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord has forgiven you, so you also must forgive. Above all, clothe yourselves with love, which binds everything together in perfect harmony. And let the peace of Christ rule in your hearts, to which indeed you were called in the one body. And be thankful.
+
 
 ## Prayer ##
 
