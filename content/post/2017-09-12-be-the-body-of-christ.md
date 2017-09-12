@@ -3,7 +3,8 @@ title: "Be the Body of Christ"
 draft: false
 categories: []
 tags:
-- 
+- prayer
+- religion
 comments: true
 date: "2017-09-12T14:38:13"
 highlight: true
