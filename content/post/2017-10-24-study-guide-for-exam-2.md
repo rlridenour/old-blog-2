@@ -1,12 +1,12 @@
 ---
 title: "Study Guide for Exam 2"
-draft: true
+draft: false
 categories: []
 tags:
 - teaching
 - philosophy
 comments: true
-date: 
+date: "2017-10-24"
 highlight: true
 markup: ""
 math: false
