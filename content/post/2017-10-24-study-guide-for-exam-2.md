@@ -15,6 +15,8 @@ url: ""
 
 Here are some topics to study for the second exam in Introduction to Philosophy, Fall 2017. Students are responsible for knowing everything covered in lectures and readings, but the items on the following list will make up the bulk of the exam.
 
+Material will be added to the list as it is discussed in class.
+
 1. Philosophical behaviorism
 2. The identity theory
 3. The multiple realizability thesis
