@@ -67,3 +67,13 @@ Material will be added to the list as it is discussed in class.
     5. Overman
 36. Argument for cultural relativism
 37. Consequences of relativism
+38. Punishment
+    39. Utilitarian justifications
+    40. Deontological justifications
+    41. Virtue justifications
+38. Euthanasia
+    39. Doctrine of Double Effect
+    40. Involuntary, non-voluntary, voluntary
+    41. Active and passive
+39. Abortion
+    40. General attitudes of utilitarians, deontologists, and virtue ethicests
