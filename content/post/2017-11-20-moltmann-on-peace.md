@@ -1,12 +1,12 @@
 ---
 title: "Moltmann on Peace"
-draft: true
+draft: false
 categories: []
 tags:
 - quotes 
 - religion
 comments: true
-date: 
+date: "2017-11-20T14:54:53"
 highlight: true
 markup: ""
 math: false
