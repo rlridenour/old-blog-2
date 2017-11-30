@@ -5,7 +5,7 @@ categories: []
 tags:
 - ethics
 - political
-comments: true
+comments: false
 date: "2017-11-30T16:29:11"
 highlight: true
 markup: ""
