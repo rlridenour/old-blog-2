@@ -23,7 +23,7 @@ These are some concepts and terms used in a presentation on the ethics of war, g
 
 ### Doctrine of Double Effect ###
 
-War, then, could be permissible, even if we know that innocent lives will be lost, if
+War could be permissible, even if we know that innocent lives will be lost, if
 
 1. Taking innocent life is not the reason that we go to war,
 2. The lives that are saved are proportionally greater than the lives that will be lost, 
