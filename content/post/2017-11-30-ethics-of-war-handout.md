@@ -21,6 +21,15 @@ These are some concepts and terms used in a presentation on the ethics of war, g
 
 **Deontological Pacifism**: War is always intrinsically wrong, regardless of its consequences.
 
+### Doctrine of Double Effect ###
+
+War, then, could be permissible, even if we know that innocent lives will be lost, if
+
+1. Taking innocent life is not the reason that we go to war,
+2. The lives that are saved are proportionally greater than the lives that will be lost, 
+3. Taking innocent life is not the means to saving lives, and
+4. Saving lives is otherwise permissible.
+
 ## Just War ##
 
 ***Jus ad bellum***: Conditions that determine when a state can justly go to war.
