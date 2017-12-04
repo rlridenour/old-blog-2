@@ -1,5 +1,6 @@
 title = "Randy Ridenour"
-baseURL = "http://randyridenour.net/"
+# baseURL = "http://randyridenour.net/"
+baseURL = "/"
 publishDir = "public"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
