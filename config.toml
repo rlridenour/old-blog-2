@@ -1,5 +1,6 @@
 title = "Randy Ridenour"
 baseURL = "http://randyridenour.net/"
+publishDir = "public"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
