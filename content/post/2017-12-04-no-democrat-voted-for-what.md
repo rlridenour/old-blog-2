@@ -1,11 +1,11 @@
 ---
 title: "No Democrat Voted for What?"
-draft: true
+draft: false
 categories: []
 tags:
 - political
 comments: true
-date: 
+date: 2017-12-04T20:33:44
 highlight: true
 markup: ""
 math: false
