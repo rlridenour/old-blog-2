@@ -12,8 +12,10 @@ disqusShortname = "rlridenour"
 	[params.author]
 		name = "Randy Ridenour"
 		# avatar = "/images/avatar.jpg"
-		bio = "An elegant, responsive theme for Hugo"
+		bio = "Associate Professor of Philosophy, Oklahoma Baptist University"
 		github = "rlridenour"
+        twitter = "randyridenour"
+        facebook = "randy.ridenour"
 	[params.image]
 	  feature = "/images/banner/DT84.jpg"
 	  # credit = "dargadgetz"
