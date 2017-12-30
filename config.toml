@@ -1,31 +1,20 @@
-title = "Randy Ridenour"
-# baseURL = "http://randyridenour.net/"
-baseURL = "/"
-publishDir = "public"
+baseurl = "/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+title = "Randy Ridenour"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "rlridenour"
 
 [params]
-  favicon = ""
-  description = " "
-  facebook = "https://www.facebook.com/randy.ridenour"
-  twitter = "https://twitter.com/randyridenour"
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/rlridenour"
-  linkedin = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 5
+	subtitle = ""
+	[params.author]
+		name = "Randy Ridenour"
+		# avatar = "/images/avatar.jpg"
+		bio = "An elegant, responsive theme for Hugo"
+		github = "rlridenour"
+	[params.image]
+	  feature = "/images/banner/DT84.jpg"
+	  # credit = "dargadgetz"
+	  # creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"

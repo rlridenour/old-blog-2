@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 featured_image: '/img/banner/DT84.jpg'
 description: " "
 ---

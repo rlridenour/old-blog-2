@@ -1,6 +1,6 @@
 ---
 title: "About"
-featured_image: '/images/banner/DT84.jpg'
+featured_image: '/img/banner/DT84.jpg'
 ---
 
 I am an associate professor of philosophy at [Oklahoma Baptist University](http://www.okbu.edu). As one of only two people in the department, I teach a number of different courses. Courses that I teach regularly are Introduction to Philosophy, Critical Thinking, Political Philosophy, Philosophy of Language, Metaphysics, and Aesthetics. My past research has been on the nature and justification of religious belief, the relation of religious belief to ethics, the role of mystery in religious belief, and the problem of religious tolerance. My most recent work is on the effects of social media on community.
