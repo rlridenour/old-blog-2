@@ -9,6 +9,7 @@ share: false
 ## Syllabi ##
 
 [Philosophy of Religion](http://randyridenour.net/pdf/18J-religion-syllabus.pdf)
+
 [Psychology of Religion](http://randyridenour.net/pdf/18J-psychology-syllabus.pdf)
 
 ## Philosophy of Religion Text ##
