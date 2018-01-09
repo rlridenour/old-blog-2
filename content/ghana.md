@@ -15,3 +15,8 @@ share: false
 ## Philosophy of Religion Text ##
 
 [Course Text](http://randyridenour.net/pdf/reltext.pdf)
+
+## Psychology of Religion ##
+
+[Lecture Notes](http://randyridenour.net/psych)
+
