@@ -258,4 +258,111 @@ History of psychology of religion
 3. The shape that a religion takes may result from the culture in which it happens to be placed.
 4. A religion and the larger culture may interact to produce unique effects that would not otherwise appear.
 
+# Logic and Methods #
+
+* How do we know what we think we know?
+* How do we formulate good questions?
+    * Many methods, each has its strengths.
+* Two axes
+    * Individual and group
+    * Qualitative and quantitative
+* Qualitative
+    * Biography, interviews, observation
+    * Interpret the meaning of raw material, often interviews
+    * Tendency to be subjective
+    * Need to control for bias of the researcher
+        * Have several independent analyses
+* Quantitative
+    * Self-ratings or other measurable behaviors 
+* Need both
+* Preventing bias
+    * Bias can be in both procedures and interpretation
+* Bias from religious differences in population and psychologists
+    * Americans in general are twice as religious as psychologists
+    * Ashiq Ali Shah and Sebastian Murken in "From Conflict to Dialogue" in *The International Journal for the Psychology of Religion*, 2002
+
+## Measuring Religious Variables ##
+
+* We don't measure religion
+* We measure particular variables
+    * Number of times a person went to church during a period
+    * Reported degree of satisfaction with a church
+    * Blood flow, brain activity
+
+### Simple identification approach
+
+* Ask people what they believe and do
+    * Place data in category
+    * Strengths: easy, versatile
+    * Weaknesses: can be misleading, imprecise categories
+        * Example: different churches count membership in different ways
+
+### Factors and Scales
+
+* 66 good measuring tools
+* Criteria
+    * Conceptual clarity
+        * Clear idea of what is to be measured
+    * Sample representativeness
+        * Clear about what sample the tool is designed for (religious and non-religious groups, religious groups only, etc.)
+    * Cultural sensitivity
+        * Measures appropriate to the meaning of religious language in the culture
+    * Sustained research program
+        * Can stand the test of time
+    * Alternative to self-report and simple category
+        * Only used when simple identification approach would fail
+* Recent progress in scales to measure international and multi-cultural religion
+
+## Research Methods ##
+
+* Need to state the question clearly
+* Describe the goal precisely
+
+### Lab Experiments ###
+
+* Most precise
+* Closest to cause-effect conclusion
+* Manipulate the independent variable
+* See if a change occurs in the dependent variable
+* Example: does thinking about religion have emotional effects?
+    * Give people a list of non-religious words to read, followed by a list of religious words
+    * Measure pulse-rate, respiratory rate, skin capacitance. See if there is a change
+* Controlled experiment
+    * Subjects randomly assigned to two groups
+    * Experimental group gets suspected cause
+    * Control group does not
+    * Test if there is a difference in the level of the effect in the two groups
+    * Blind experiment: subjects don't know which group they are in
+    * Double-blind: the experimenter also does not know which group the subjects are in
+    * Very hard to do in the context of religion.
+        * Example: does conversion result in a greater sense of satisfaction with life?
+            * Can't randomly select people to be converted
+        * Example: does prayer cause healing?
+            * Can't be sure the control group is not being prayed for
+
+### Surveys ###
+
+* Survey is procedure
+* Questionnaire is instrument
+* Measures what people claim
+* Does not measure actual behavior
+
+#### Issues ####
+
+* Surveys are samples
+* Population: whole group you are studying
+* Sample: subset of the population
+* A good sample is 
+    * Not too small
+    * Not biased
+* A sample is representative if it matches the population in every respect
+* A sample is random if every member of the population has an equal chance to be included in the sample.
+* Random samples are more likely to be representative than non-random samples
+* Bad surveys
+    * Self-selected
+    * Ignore order effects
+    * Ask slanted questions
+* Margin of error: the range from the survey result that the right answer could be in
+    * If N is the sample size and the population is very large, then the margin of error at the 95% confidence level is roughly $\frac{1}{\sqrt{N}}$
+
  
