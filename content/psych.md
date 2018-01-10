@@ -363,6 +363,8 @@ History of psychology of religion
     * Ignore order effects
     * Ask slanted questions
 * Margin of error: the range from the survey result that the right answer could be in
-    * If N is the sample size and the population is very large, then the margin of error at the 95% confidence level is roughly \(\frac{1}{\sqrt{N}}\)
+    * If N is the sample size and the population is very large, then the margin of error at the 95% confidence level is roughly: 
+    
+$$\frac{1}{\sqrt{N}$$
 
  
