@@ -365,4 +365,105 @@ History of psychology of religion
 * Margin of error: the range from the survey result that the right answer could be in
     * If N is the sample size and the population is very large, then the margin of error at the 95% confidence level is roughly 1 divided by the square root of N.
 
- 
+# Developmental Processes #
+
+## Models ##
+
+* Children are involved in religion in ways that have lifelong consequences.
+* Outcome depends on parents
+
+
+### Ancient Wisdom ###
+
+Proverbs 22:6, "Train up a child in the way he should go, and when he is old he will not depart from it."
+
+## Child Religious Development ##
+
+* Children are not adults
+* Minds do not work like adults'.
+* May not mean the same thing by religious words.
+* Ideas are hung on words. Adults have many words, children only a few.
+* Questions children ask
+    * Does God die like everyone else?
+    * How does God pick up the dead people?
+    * How old is God?
+* View prayer as a tool.
+    * "Next time I'm going to pray before I throw the dice!"
+
+### Stages of Religious Concepts ###
+
+1. Fairy-tale stage (3-6)
+2. Realistic stage (7-12)
+3. Individualistic stage (13-18)
+
+Why was Moses afraid to look at God?
+
+1. Because God had a funny face
+2. Because it was a ball of fire or bright light.
+3. Because God is holy and the world is sinful.
+
+Prayer
+
+* Children asked about prayer
+* Global, undifferentiated stage (5-7)
+* Concrete, differentiated stage (7-9)
+    * Uttering requests
+* Abstract, differentiated stage (11-12)
+    * Conversation with God
+
+## Learning and Socialization ##
+
+* Learning is based on reward, punishment, reinforcement, imitation and modeling.
+* Attachment theory
+    * Children need haven of safety and secure base
+
+## Interdependence ##
+
+* US and China on origin of the world
+* US, 8-10, prefer creation
+* China, uniformly evolution
+* Views about soul
+    * Children apply it to plants, furniture
+    * Mennonite children did not.
+* Parenting styles
+    * Authoritarian
+        * Demanding, not responsive 
+    * Authoritative
+        * Demanding and responsive
+    * Permissive
+        * Not demanding, responsive (give in to children)
+    * Rejecting
+        * Neither demanding nor responsive
+* Authoritative parenting has greatest chance of developing socially responsible children.
+
+## Youth ##
+
+* Peers
+* Increased mental ability
+* Individuation and identity
+* Doubt
+
+### Kohlberg ###
+
+Story: druggist charging ten times (2,000 dollars)for medicine than it costs to make. Woman will die without the drug. Druggist refuses to sell it for the 1,000 dollars that her husband has raised. Husband breaks in and steals the drug. Was he right?
+
+Stages:
+
+1. Punishment and obedience stage
+2. Instrumental relativist orientation
+    1. Right and wrong are determined by reward
+3. Interpersonal concordance (good boy)
+4. Social system maintenance
+5. Social contract orientation
+6. Universal ethical principles
+
+## Lifespan Models ##
+
+## Stages of Faith Development ##
+
+1. Intuitive–Projective Faith
+2. Mythic–Literal Faith
+3. Synthetic–Conventional Faith
+4. Inductive–Reflective Faith
+5. Conjunctive Faith
+6. Universalizing Faith
