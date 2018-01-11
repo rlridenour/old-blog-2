@@ -461,9 +461,43 @@ Stages:
 
 ## Stages of Faith Development ##
 
-1. Intuitive–Projective Faith
-2. Mythic–Literal Faith
-3. Synthetic–Conventional Faith
-4. Inductive–Reflective Faith
-5. Conjunctive Faith
-6. Universalizing Faith
+1. Primal, Undifferentiated Faith
+    2. 0-2 years, foundations of hope, trust, loyalty made with relationship to caregiver. Mistakes here create foundation of mistrust and lack of faith.
+2. Intuitive–Projective Faith
+    3. 3-7, tendency to imagination 
+3. Mythic–Literal Faith
+    4. 7-11, lessons and moral rules taken literally, greater understanding.
+4. Synthetic–Conventional Faith
+    5. 12 and up, many factors influence life, faith synthesizes all of those factors. Gives identity.
+5. Inductive–Reflective Faith
+    6. Reaction to tensions, critically self-reflective, development of unique individual identity and worldview. May begin late adolescence to 30's or 40's.
+6. Conjunctive Faith
+    7. Development of epistemological humility. Start to reject exclusive dichotomies in certain contexts. Begins before midlife if at all.
+7. Universalizing Faith
+    8. See beyond human categories, feel a oneness with ultimate reality. 
+
+### Data
+
+* 88% of children 0-6 were in stage 1.
+    * 12% transitioning to stage 2.
+* 7-12, 72% at stage 2.
+    * 17% transition to 3, 10% still in 1.
+* 13-20, 50% at stage 3.
+    * 29% transition to 4.
+* 21-30, 40% at 4.
+    * 33% at 3-4
+    * Smaller percentages at surrounding stages.
+* 31-40, 38% in stage 3.
+* 41-50, 56% in stage 4.
+    * 9% in 3
+    
+### Assessment
+
+* Heavily cognitive, ignores practice and behavior.
+* No attention to personality.
+* Ignores life events.
+
+## Faith Styles ##
+
+* Evidence shows that at early stages of faith development, subjects think that one has faith or fear, not both. Decisions are eternal or temporal but not both.
+* Later stages tend to see both ends at the same time.
