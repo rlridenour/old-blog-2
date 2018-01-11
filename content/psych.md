@@ -501,3 +501,60 @@ Stages:
 
 * Evidence shows that at early stages of faith development, subjects think that one has faith or fear, not both. Decisions are eternal or temporal but not both.
 * Later stages tend to see both ends at the same time.
+
+# Religion in the Individual #
+
+* Adults should show coherence in traits, attitudes, values, goals, and sense of self.
+* A person  who had a clear developmental path should function as a integrated whole, not set of dissociated, separate parts.
+* Internally consistent meaning system is key
+
+## The Whole Person ##
+
+* The religious person is involved in the processes of 
+	* Believing
+	* Bonding (emotions and attachments)
+	* Behaving 
+	* Belonging
+
+### Psychology of the Whole Person ###
+
+* Three levels of interdependent processes: core traits, goals, identity and worldview
+
+### Traits ###
+
+* Dispositions
+	* Kind, extrovert, etc.
+
+### Midlevel Functions ###
+
+* Goals, purposes, values
+* Goals can be short term and specific or long term and abstract.
+* Much of religion is at this level.
+
+### Identity and Worldview ###
+
+* Self-identity: how you define yourself.
+* Factors that determine how you understand and interpret reality.
+
+### Self as Construct ###
+
+* The self is made, not found.
+* The self you are today is not the same as yesterday.
+
+## Traits ##
+
+* Five-factor model
+	* Openness to experience
+	* Conscientousness
+	* Extroversion
+	* Agreeableness
+	* Neuroticism
+* A sixth, spirituality, has been suggested.
+
+## Spiritual Intelligence ##
+
+* Ultimate Concern: things that a person holds in absolute or hightest importance.
+* Spiritual Intelligence: the ability to define goals and purposes that are part of UC and act to move towards UC.
+
+
+
