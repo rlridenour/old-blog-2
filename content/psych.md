@@ -556,5 +556,79 @@ Stages:
 * Ultimate Concern: things that a person holds in absolute or hightest importance.
 * Spiritual Intelligence: the ability to define goals and purposes that are part of UC and act to move towards UC.
 
+# Conversion #
 
+* People convert in large numbers
+* People also deconvert
+
+## Background ##
+
+* Most stay with the religion of their upbringing.
+* US – 30% switch from one religion to another.
+* 10-20% deconvert, claim no religion.
+* When adults change to another religion or to none:
+	* 40% say that a major reason was the teachings of the religion.
+		* 25% say this was a minor reason
+	* 33% say they found a religion that was more fulfilling.
+		* 15% – minor reason
+	* 50% say change due to dissatisfaction with the local church.
+	* 50% say change due to leaders struggling with each other over control.
+* Christianity, Islam, and Buddhism are missionary religions.
+* In US, half of very religious people think it is necessary to bring others into the religion.
+	* For 6%, the goal is to convert the whole society, so it conforms to their beliefs and practices.
+* Conversion best seen as a process.
+    * Intellectual, moral, and social conversions.
+    * Intellectual: change in belief.
+    * Moral: change in attitude to behavior.
+    * Social: change in attitude to social environment.
+    
+## Agency ##
+
+* Is conversion active or passive?
+    * Active: by choice
+    * Passive: by psychological processes.
+* Answer: both.
+
+## Speed ##
+
+* Are slow changes conversions?
+
+## Spiritual Transformation ##
+
+* Change in religion
+* Change to no religion
+* Change in level of commitment.
+* Change in specific element of religion.
+* Change in goals of religion.
+
+## How Meaning System Changes ##
+
+* Inputs: doubts and social influence
+    * Doubts may be caused by observed hypocrisy, etc.
+* Effects: beliefs, attitudes and values, goals, purposes, self-identity and worldview, ultimate concerns.
+* Outputs: Belief change, small or big
+
+### Elements ###
+
+* Need
+* Doubt
+* Context and resources
+* Elimination of barriers
+* Implementation
+
+## Conversion Types ##
+
+* Sudden
+* Gradual
+* Religious socialization (can't remember not believing the faith.)
+
+## Individual Factors ##
+
+
+* **Secularizing exit**: Termination of (concern with) religious belief and praxis and, eventually, disaffiliation from organized religion 
+* **Oppositional exit**: Adopting a different system of beliefs and engaging in different ritual practices, while affiliating with a higher tension, more oppositional religious organization, which could mean, for example, conversion into a fundamentalist group 
+* **Religious switching**: Migration to a religious organization with a similar system of beliefs and rituals and with no, or only marginal, difference in terms of integration in the surrounding culture 
+* **Integrating exit**: Adopting a different system of beliefs and engaging in different ritual practices, while affiliating with an integrated or more accommodated religious organization 
+* **Privatizing exit**: Disaffiliating from a religious organization, eventually including termination of membership, but continuation of private religious belief and private religious praxis 
+* **Heretical exit**: Disaffiliating from a religious organization, eventually including termination of membership, and individual heretical appropriation of new belief system(s) or engagement in different religious praxis but without new organizational affiliation
 
