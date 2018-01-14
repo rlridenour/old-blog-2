@@ -632,3 +632,41 @@ Stages:
 * **Privatizing exit**: Disaffiliating from a religious organization, eventually including termination of membership, but continuation of private religious belief and private religious praxis 
 * **Heretical exit**: Disaffiliating from a religious organization, eventually including termination of membership, and individual heretical appropriation of new belief system(s) or engagement in different religious praxis but without new organizational affiliation
 
+# Experience #
+
+* Experience is private
+* Experience is interpreted to be consistent with belief.
+* Ordinary experience
+* Extraordinary experience
+    * Ineffable
+    * Noetic
+    * Potent
+    * Memorable
+    * Immediacy
+    * Numinous (provide sense of the presence of the holy)
+    * Nonrepresentational
+* Causes and Consequences
+    * Religious belief leads to experience
+    * Experience leads to religious belief
+    * Reciprocity
+
+## Common-Core Thesis ##
+
+* Religious experiences are the same, only interpreted differently.
+* Constructivism: experience must be mediated by language and belief.
+* Particular regions of the brain are active during religious practice.
+
+## Religion as Schema ##
+
+* Schema: packet of information available about a subject.
+* Influence perception, memory
+* Example: alcohol experiment
+* Perceptual set: beliefs and emotions that affect perception.
+
+## Causes ##
+
+* Context
+* Authority
+* Controlled experiment
+    * Experiment with helmet
+
