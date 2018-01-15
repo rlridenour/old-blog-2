@@ -670,3 +670,68 @@ Stages:
 * Controlled experiment
     * Experiment with helmet
 
+# Religion and Well-Being #
+
+* Good and bad ways of being religious.
+* Some religious believers exhibit strange behavior.
+* 1978: members of The People's Church in San Francisco followed Jim Jones to Guyana and drank a poisoned drink. Over 900 died.
+* Some psychologists think all religion is bad.
+* Psychotic people often use religious language and concepts.
+* Says nothing about how they are used in normal people.
+
+## Mental Health ##
+
+* Problem of defining mental health
+* Different theories portray mental health differently.
+* Is seeing the world accurately health?
+    * Tends to be associated with mild depression.
+    * Mental health may be seeing through positive illusions.
+* Converts tend to have more childhood trauma, unhappier adolescence, more personal stress in two years preceding conversion.
+    * Suggests turn to religion to satisfy psychological needs.
+* Religious belief can facilitate mental disorder.
+    * Example of Orthodox Jew.
+    * Convert to Christianity
+    * Family held funeral.
+    * Became seriously mentally ill.
+    * Can't know the causal relation.
+
+## Religion and Emotions ##
+
+* If you take your religion seriously, it will affect your emotional functioning and sense of well-being.
+* Positive:
+    * Wholeness, relief, gratitude
+    * Meaning, purpose, values
+    * People with mental illness tend to have a low sense of meaning.
+    * Highly religious people tend to have high sense of meaning.
+    * People who value pleasure, excitement, and comfort have low sense of meaning.
+    * Suggests that the life of a religious person is purposeful.
+* Negative
+    * Struggle, anger, guilt
+        * Problem of suffering
+        * Two responses
+            * Anger at God, leave the faith.
+            * Conclude that the bad thing is really good in God's perspective.
+        * Struggle over our own bad 
+    * Emptiness, distance, alienation
+
+## Religion and Psychological Disorders ##
+
+* Anxiety
+    * More people attend worship, the less likely they are to suffer from panic disorder.
+    * Higher reported spirituality, more likely to suffer panic attacks.
+* Obsessive Compulsive Disorder
+    * Higher attendance = lower lifetime depression
+* PTSD
+    * More religious = fewer PTSD symptoms (Study in Iran)
+    * Study in US
+        * People who pray for help, calm, and focus had lower PTSD
+        * People who prayed for the problem to be taken away had more.
+* Psychoses
+    * Report that religion gives a semse of meaning that helps them accept their illness as part of life.
+        * Decreased suicide and substance abuse
+        
+## Religion and Coping ##
+
+* Degree to which you let your religion be part of the process of dealing with life events.
+    * Key is not how much, but how
+        * Who is doing what, when and where and why.
