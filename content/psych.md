@@ -683,7 +683,7 @@ Stages:
 
 * Problem of defining mental health
 * Different theories portray mental health differently.
-* Is seeing the world accurately health?
+* Is seeing the world accurately a healthy thing?
     * Tends to be associated with mild depression.
     * Mental health may be seeing through positive illusions.
 * Converts tend to have more childhood trauma, unhappier adolescence, more personal stress in two years preceding conversion.
@@ -711,7 +711,7 @@ Stages:
         * Two responses
             * Anger at God, leave the faith.
             * Conclude that the bad thing is really good in God's perspective.
-        * Struggle over our own bad 
+        * Struggle over our own lack of goodness 
     * Emptiness, distance, alienation
 
 ## Religion and Psychological Disorders ##
