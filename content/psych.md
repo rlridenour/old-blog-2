@@ -545,7 +545,7 @@ Stages:
 
 * Five-factor model
 	* Openness to experience
-	* Conscientousness
+	* Conscientiousness
 	* Extroversion
 	* Agreeableness
 	* Neuroticism
@@ -553,7 +553,7 @@ Stages:
 
 ## Spiritual Intelligence ##
 
-* Ultimate Concern: things that a person holds in absolute or hightest importance.
+* Ultimate Concern: things that a person holds in absolute or highest importance.
 * Spiritual Intelligence: the ability to define goals and purposes that are part of UC and act to move towards UC.
 
 # Conversion #
@@ -727,7 +727,7 @@ Stages:
         * People who pray for help, calm, and focus had lower PTSD
         * People who prayed for the problem to be taken away had more.
 * Psychoses
-    * Report that religion gives a semse of meaning that helps them accept their illness as part of life.
+    * Report that religion gives a sense of meaning that helps them accept their illness as part of life.
         * Decreased suicide and substance abuse
         
 ## Religion and Coping ##
@@ -735,3 +735,58 @@ Stages:
 * Degree to which you let your religion be part of the process of dealing with life events.
     * Key is not how much, but how
         * Who is doing what, when and where and why.
+        
+# Religion and Health-Related Issues #
+
+* If prayer worked the way many people believe it does, then no one would ever die. — Rabbi Harold Kushner
+* Religions that do not believe in medical care.
+* Is there a relationship between religion and health?
+* Does it apply to all religion or only certain ones?
+* Does prayer help?
+* Does knowing you are being prayed for help?
+* Should a parent have the right to withhold medical care from a child?
+
+## Mortality ##
+
+* Research shows regular church participation associated with good health and later death.
+    * Studies involving more than 125,000 people
+    * People who attend church more than once a week lived 7 years longer than those who never attended.
+        * 14 years for African Americans
+        * The healthier you are, the more you can be involved in church. The more involved you become, the healthier you are.
+
+## Cancer ##
+
+* Women who never attended church were 7 times more likely to get cancer.
+    * Believers had lower rates of cancer risk factors, e.g. smoking, etc.
+* Responding to diagnosis seemed to require religious experiences more than church attendance. High rate of religious struggle associated with refusal to follow doctor's advice.
+
+## Heart Disease ##
+
+* People who never attend church are 1.5 times more likely to die of heart disease than frequent attenders.
+
+## Substance Abuse ##
+
+* Christianity is accepting, then more likely to overcome addiction.
+* If Christianity is negative and judgmental then more likely to continue in addiction.
+
+## Fear of Death ##
+
+* 2/3 of studies show decreased fear of death in religious believers.
+* 1/3 show no relation or increased fear.
+
+## Well-being ##
+
+* Greater score on the well-being scale does not result in less illness, but less pain and anxiety.
+
+## Prayer ##
+
+* 1998 study of 400 patients showed significant difference in group that was prayed for and group that was not.
+* Study of 1,800 showed no difference.
+
+
+
+
+
+
+
+
