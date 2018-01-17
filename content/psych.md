@@ -582,7 +582,7 @@ Stages:
     * Moral: change in attitude to behavior.
     * Social: change in attitude to social environment.
     
-## Agency ##
+# Agency ##
 
 * Is conversion active or passive?
     * Active: by choice
