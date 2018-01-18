@@ -783,10 +783,142 @@ Stages:
 * 1998 study of 400 patients showed significant difference in group that was prayed for and group that was not.
 * Study of 1,800 showed no difference.
 
+# Religion, Social Attitudes, and Behavior #
 
+>I believe that I am acting in accordance with the will of the Almighty Creator: By defending myself against the Jew, I am fighting for the work of the Lord. — Adolf Hitler, *Mein Kampf*
 
+* Pragmatism: proof of belief is action.
+* The acid test: what difference does a specific religion make in how people treat each other?
 
+## Social Influence ##
 
+* Asch conformity experiment.
+* Milgram's obedience experiment
+    
+### Asch’s Conformity Study (1950's) ###
 
+* People seated in a semicircle around a table — asked in turn: Which line matches A?
+* Confederates (accomplices of experimenter) give some (obviously) wrong answers 
+* About 1/3 of time the subjects went along with incorrect response 
+* 50% - 80% of the subjects went along at least once (several conditions run)
+* With even one dissenter, the subject conformed much less
+* So dissent very important
+* Dark side: Ash got a lot of conformity even though 
+* Correct answer was obvious 
+* The subject didn't know others in the group
 
+## Obedience (The Milgram Experiments) ##
 
+* Stanley Milgram’s Obedience Studies
+	* Yale 1960--1963
+	* Subjects arrive two at a time -- told part of a study on learning
+	* Object to memorize series of word pairs: fat-neck, boy-tall, etc.
+	* One will be Teacher
+	* Other will be Learner
+		* One a confederate 
+		* Drawing is rigged:
+		* Confederate always the  learner
+		* Real subject always the teacher
+	* Teacher and learner in separate rooms
+	* Communicate over intercom
+	* Teacher to administer a shock for each error
+	* Each time shock increases by 15 volts
+* Obedience: The Experimenter’s Lines
+	* He reads each in turn until subject continues
+		* Please Continue (or Please go on)
+		* The experiment requires that you continue
+		* It is absolutely essential that you continue
+		* You have no other choice, you must go on 
+	* If subject refuses after all 4 lines read, session over
+* Obedience: The Results 
+	* Everyone predicted people would only administer a few shocks and quit
+	* The results very different --  in basic condition
+	* 63% went all the way to 405 volts
+	* No one quit before 300 volts
+* Obedience
+	* Amount of compliance in Milgram's studies varied under different conditions.
+	* The closer proximity to victim, the less obedience. 
+	* Easier to bomb village than to burn it on the ground? 
+	* If several subjects and one disobeyed, easier for others to.
+	* As with Ash, the importance of dissent
+
+## The Grand Paradox ##
+
+* In the US, in the 1940's and 50's, initial study revealed people who went to church tended to have higher rates of racial and ethnic prejudice.
+* Later study showed some complexity.
+    * Not all church attendees were prejudiced.
+    * Some had the highest rates of prejudice of all the groups
+    * Others had the lowest.
+    * Both extremes were in the church.
+    * High attenders had low prejudice.
+    * Inconsistent attenders had high prejudice.
+    * Curved graph, high in the middle.
+* Intrinsic and Extrinsic
+    * 300 subjects, Catholic, Lutheran, Nazarene, Presbyterian, Methodist, Baptist
+    * Intrinsic (I): "My religious beliefs are what lie behind my whole approach to life."
+    * Extrinsic (E): "Although I am a religious person, I refuse to let my religion influence my everyday affairs."
+    * Indiscriminately Pro-Religious (I-Pro) answered yest to both.
+    * I's had least prejudice and highest church attendance.
+* Possible explanations
+    * E's need security, comfort, and status. Prejudicial attitudes serve these needs.
+    * I-Pro's tend to use blanket, stereotype thinking. 
+        * "All these people are good, all others are bad."
+* Distinctions were important not just for prejudice, but for attitudes toward war, sexual behavior, politics, economics, etc.
+* People don't tend to begin with a study the teachings of their religious group.
+* The begin with an idea of what God's will is, then they consult the teachings of the religion.
+    * Not surprising that they find their own ideas in the religious teachings.
+    
+## Fundamentalism ##
+
+* Two kinds of fundamentalism
+    * People who believe in the fundamentals, but are not confrontational, defensive, etc.
+        * Amish, 2006 shooting of 10 girls, killing five.
+        * Community reached out to family of murderer, forgave the murderer.
+        * Said it was what the Bible said they should do. 
+    * Authoritarian fundamentalism
+        * Wants freedom of religion for themselves, but no one else.
+* Inconsistency
+    * Asked about law requiring teaching of Christian religion in public schools, learn 10 commandments, the Bible, be encouraged to accept Christ, and pray.
+        * Authoritarian Fundamentalists said they would support it. 
+        * When asked about Muslims in America, they replied the Muslims should leave or go to private schools because US is a Christian country.
+    * When asked if the lived in a Muslim country that taught the Koran in school, etc., they said the law there would be wrong.
+* Top reason people give for leaving the church is hypocritical behavior.
+
+## Terrorism ##
+
+* Stair-step model
+* Lower floors are wide, representing possible choices.
+* Upper floors are narrow, choices become more limited.
+
+Model is on a scale of perception of external threat.
+
+1. Threatened collective identity
+2. Frustration
+3. Displacement
+4. Disengagement from mainstream morality
+5. Binary morality
+6. Violence
+
+Key Steps:
+
+* Religious fundamentalists feel particularly threatened.
+* Group identity seen as positive
+* General anxiety, no fixed enemy
+* Perceived injustice of systems
+* High inequality of social groups
+* Clear enemy identified
+* No freedom to exit the group, high conformity
+* No moral ambiguity, us and them, good and evil
+* Dehumanization of out-groups
+* Inhibitory mechanisms sidestepped
+* Violence seen as only option
+
+## Rescuers ##
+
+* Armenians in the Ottoman Empire
+* Jews in Nazi Europe
+* Attributes
+    * Willingness to take risks
+    * Social marginality
+    * Moral identification with parents
+    * Most important: history of small sacrificial behavior
