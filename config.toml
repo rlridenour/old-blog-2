@@ -1,7 +1,7 @@
 baseurl = "http://randyridenour.net"
 languageCode = "en-us"
 title = "Randy Ridenour"
-theme = "hpstr"
+theme = "tale"
 pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
